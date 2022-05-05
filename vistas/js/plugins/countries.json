@@ -1,0 +1,8 @@
+[
+    {"name": "El Salto", "code": "SALT"},
+    {"name": "Guadalajara", "code": "GDL"},
+    {"name": "Tlaquepaque", "code": "ST"},
+    {"name": "Tlajomulco de Zuñiga", "code": "TZ"},
+    {"name": "Tonalá", "code": "TN"},
+    {"name": "Zapopan", "code": "ZP"}
+    ]

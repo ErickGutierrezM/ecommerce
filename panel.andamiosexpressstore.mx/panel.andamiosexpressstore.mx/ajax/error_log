@@ -1,0 +1,602 @@
+[11-Nov-2021 11:30:00 America/Mexico_City] PHP Warning:  require_once(../modelos/categorias.modelos.php): failed to open stream: No such file or directory in /home/andamio8/public_html/panel.andamiosexpressstore.mx/ajax/tablaCategorias.ajax.php on line 3
+[11-Nov-2021 11:30:00 America/Mexico_City] PHP Fatal error:  require_once(): Failed opening required '../modelos/categorias.modelos.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/andamio8/public_html/panel.andamiosexpressstore.mx/ajax/tablaCategorias.ajax.php on line 3
+[11-Nov-2021 11:30:35 America/Mexico_City] PHP Warning:  require_once(../modelos/categorias.modelos.php): failed to open stream: No such file or directory in /home/andamio8/public_html/panel.andamiosexpressstore.mx/ajax/tablaCategorias.ajax.php on line 3
+[11-Nov-2021 11:30:35 America/Mexico_City] PHP Fatal error:  require_once(): Failed opening required '../modelos/categorias.modelos.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/andamio8/public_html/panel.andamiosexpressstore.mx/ajax/tablaCategorias.ajax.php on line 3
+[11-Nov-2021 11:30:38 America/Mexico_City] PHP Warning:  require_once(../modelos/categorias.modelos.php): failed to open stream: No such file or directory in /home/andamio8/public_html/panel.andamiosexpressstore.mx/ajax/tablaCategorias.ajax.php on line 3
+[11-Nov-2021 11:30:38 America/Mexico_City] PHP Fatal error:  require_once(): Failed opening required '../modelos/categorias.modelos.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/andamio8/public_html/panel.andamiosexpressstore.mx/ajax/tablaCategorias.ajax.php on line 3
+[11-Nov-2021 11:35:20 America/Mexico_City] PHP Warning:  require_once(../../controladores/categorias.controlador.php): failed to open stream: No such file or directory in /home/andamio8/public_html/panel.andamiosexpressstore.mx/ajax/tablaCategorias.ajax.php on line 3
+[11-Nov-2021 11:35:20 America/Mexico_City] PHP Fatal error:  require_once(): Failed opening required '../../controladores/categorias.controlador.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/andamio8/public_html/panel.andamiosexpressstore.mx/ajax/tablaCategorias.ajax.php on line 3
+[11-Nov-2021 11:36:59 America/Mexico_City] PHP Warning:  require_once(controladores/categorias.controlador.php): failed to open stream: No such file or directory in /home/andamio8/public_html/panel.andamiosexpressstore.mx/ajax/tablaCategorias.ajax.php on line 3
+[11-Nov-2021 11:36:59 America/Mexico_City] PHP Fatal error:  require_once(): Failed opening required 'controladores/categorias.controlador.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/andamio8/public_html/panel.andamiosexpressstore.mx/ajax/tablaCategorias.ajax.php on line 3
+[11-Nov-2021 11:39:09 America/Mexico_City] PHP Warning:  require_once(controladores/categorias.controlador.php): failed to open stream: No such file or directory in /home/andamio8/public_html/panel.andamiosexpressstore.mx/ajax/tablaCategorias.ajax.php on line 3
+[11-Nov-2021 11:39:09 America/Mexico_City] PHP Fatal error:  require_once(): Failed opening required 'controladores/categorias.controlador.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/andamio8/public_html/panel.andamiosexpressstore.mx/ajax/tablaCategorias.ajax.php on line 3
+[11-Nov-2021 11:42:31 America/Mexico_City] PHP Deprecated:  Non-static method Conexion::conectar() should not be called statically in /home/andamio8/public_html/panel.andamiosexpressstore.mx/modelos/categorias.modelo.php on line 25
+[11-Nov-2021 11:59:21 America/Mexico_City] PHP Deprecated:  Non-static method Conexion::conectar() should not be called statically in /home/andamio8/public_html/panel.andamiosexpressstore.mx/modelos/categorias.modelo.php on line 25
+[11-Nov-2021 12:08:02 America/Mexico_City] PHP Deprecated:  Non-static method Conexion::conectar() should not be called statically in /home/andamio8/public_html/panel.andamiosexpressstore.mx/modelos/categorias.modelo.php on line 25
+[11-Nov-2021 12:08:05 America/Mexico_City] PHP Deprecated:  Non-static method Conexion::conectar() should not be called statically in /home/andamio8/public_html/panel.andamiosexpressstore.mx/modelos/categorias.modelo.php on line 25
+[11-Nov-2021 13:16:39 America/Mexico_City] PHP Deprecated:  Non-static method Conexion::conectar() should not be called statically in /home/andamio8/public_html/panel.andamiosexpressstore.mx/modelos/categorias.modelo.php on line 25
+[11-Nov-2021 13:16:57 America/Mexico_City] PHP Deprecated:  Non-static method Conexion::conectar() should not be called statically in /home/andamio8/public_html/panel.andamiosexpressstore.mx/modelos/categorias.modelo.php on line 25
+[11-Nov-2021 13:16:59 America/Mexico_City] PHP Deprecated:  Non-static method Conexion::conectar() should not be called statically in /home/andamio8/public_html/panel.andamiosexpressstore.mx/modelos/categorias.modelo.php on line 25
+[11-Nov-2021 13:17:28 America/Mexico_City] PHP Deprecated:  Non-static method Conexion::conectar() should not be called statically in /home/andamio8/public_html/panel.andamiosexpressstore.mx/modelos/categorias.modelo.php on line 25
+[11-Nov-2021 13:17:42 America/Mexico_City] PHP Deprecated:  Non-static method Conexion::conectar() should not be called statically in /home/andamio8/public_html/panel.andamiosexpressstore.mx/modelos/categorias.modelo.php on line 25
+[11-Nov-2021 13:17:42 America/Mexico_City] PHP Deprecated:  Non-static method Conexion::conectar() should not be called statically in /home/andamio8/public_html/panel.andamiosexpressstore.mx/modelos/categorias.modelo.php on line 25
+[11-Nov-2021 13:20:58 America/Mexico_City] PHP Deprecated:  Non-static method Conexion::conectar() should not be called statically in /home/andamio8/public_html/panel.andamiosexpressstore.mx/modelos/categorias.modelo.php on line 25
+[11-Nov-2021 13:20:58 America/Mexico_City] PHP Deprecated:  Non-static method Conexion::conectar() should not be called statically in /home/andamio8/public_html/panel.andamiosexpressstore.mx/modelos/categorias.modelo.php on line 25
+[11-Nov-2021 13:22:20 America/Mexico_City] PHP Deprecated:  Non-static method Conexion::conectar() should not be called statically in /home/andamio8/public_html/panel.andamiosexpressstore.mx/modelos/categorias.modelo.php on line 25
+[11-Nov-2021 13:22:20 America/Mexico_City] PHP Deprecated:  Non-static method Conexion::conectar() should not be called statically in /home/andamio8/public_html/panel.andamiosexpressstore.mx/modelos/categorias.modelo.php on line 25
+[11-Nov-2021 13:26:25 America/Mexico_City] PHP Deprecated:  Non-static method Conexion::conectar() should not be called statically in /home/andamio8/public_html/panel.andamiosexpressstore.mx/modelos/categorias.modelo.php on line 25
+[11-Nov-2021 13:35:33 America/Mexico_City] PHP Deprecated:  Non-static method Conexion::conectar() should not be called statically in /home/andamio8/public_html/panel.andamiosexpressstore.mx/modelos/categorias.modelo.php on line 25
+[11-Nov-2021 13:42:24 America/Mexico_City] PHP Deprecated:  Non-static method Conexion::conectar() should not be called statically in /home/andamio8/public_html/panel.andamiosexpressstore.mx/modelos/categorias.modelo.php on line 25
+[11-Nov-2021 13:44:09 America/Mexico_City] PHP Deprecated:  Non-static method Conexion::conectar() should not be called statically in /home/andamio8/public_html/panel.andamiosexpressstore.mx/modelos/categorias.modelo.php on line 25
+[11-Nov-2021 13:45:13 America/Mexico_City] PHP Deprecated:  Non-static method Conexion::conectar() should not be called statically in /home/andamio8/public_html/panel.andamiosexpressstore.mx/modelos/categorias.modelo.php on line 25
+[11-Nov-2021 13:45:44 America/Mexico_City] PHP Deprecated:  Non-static method Conexion::conectar() should not be called statically in /home/andamio8/public_html/panel.andamiosexpressstore.mx/modelos/categorias.modelo.php on line 25
+[11-Nov-2021 15:11:28 America/Mexico_City] PHP Deprecated:  Non-static method Conexion::conectar() should not be called statically in /home/andamio8/public_html/panel.andamiosexpressstore.mx/modelos/categorias.modelo.php on line 25
+[11-Nov-2021 15:11:32 America/Mexico_City] PHP Warning:  require_once(..modelos/categorias.modelo.php): failed to open stream: No such file or directory in /home/andamio8/public_html/panel.andamiosexpressstore.mx/ajax/categorias.ajax.php on line 3
+[11-Nov-2021 15:11:32 America/Mexico_City] PHP Fatal error:  require_once(): Failed opening required '..modelos/categorias.modelo.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/andamio8/public_html/panel.andamiosexpressstore.mx/ajax/categorias.ajax.php on line 3
+[11-Nov-2021 15:13:27 America/Mexico_City] PHP Deprecated:  Non-static method Conexion::conectar() should not be called statically in /home/andamio8/public_html/panel.andamiosexpressstore.mx/modelos/categorias.modelo.php on line 25
+[11-Nov-2021 15:13:34 America/Mexico_City] PHP Deprecated:  Non-static method Conexion::conectar() should not be called statically in /home/andamio8/public_html/panel.andamiosexpressstore.mx/modelos/categorias.modelo.php on line 45
+[11-Nov-2021 15:13:56 America/Mexico_City] PHP Deprecated:  Non-static method Conexion::conectar() should not be called statically in /home/andamio8/public_html/panel.andamiosexpressstore.mx/modelos/categorias.modelo.php on line 25
+[11-Nov-2021 15:18:04 America/Mexico_City] PHP Deprecated:  Non-static method Conexion::conectar() should not be called statically in /home/andamio8/public_html/panel.andamiosexpressstore.mx/modelos/categorias.modelo.php on line 25
+[11-Nov-2021 15:18:05 America/Mexico_City] PHP Deprecated:  Non-static method Conexion::conectar() should not be called statically in /home/andamio8/public_html/panel.andamiosexpressstore.mx/modelos/categorias.modelo.php on line 45
+[11-Nov-2021 15:18:06 America/Mexico_City] PHP Deprecated:  Non-static method Conexion::conectar() should not be called statically in /home/andamio8/public_html/panel.andamiosexpressstore.mx/modelos/categorias.modelo.php on line 45
+[11-Nov-2021 15:18:06 America/Mexico_City] PHP Deprecated:  Non-static method Conexion::conectar() should not be called statically in /home/andamio8/public_html/panel.andamiosexpressstore.mx/modelos/categorias.modelo.php on line 45
+[11-Nov-2021 15:18:07 America/Mexico_City] PHP Deprecated:  Non-static method Conexion::conectar() should not be called statically in /home/andamio8/public_html/panel.andamiosexpressstore.mx/modelos/categorias.modelo.php on line 45
+[11-Nov-2021 15:18:13 America/Mexico_City] PHP Deprecated:  Non-static method Conexion::conectar() should not be called statically in /home/andamio8/public_html/panel.andamiosexpressstore.mx/modelos/categorias.modelo.php on line 45
+[11-Nov-2021 15:18:14 America/Mexico_City] PHP Deprecated:  Non-static method Conexion::conectar() should not be called statically in /home/andamio8/public_html/panel.andamiosexpressstore.mx/modelos/categorias.modelo.php on line 45
+[11-Nov-2021 15:18:28 America/Mexico_City] PHP Deprecated:  Non-static method Conexion::conectar() should not be called statically in /home/andamio8/public_html/panel.andamiosexpressstore.mx/modelos/categorias.modelo.php on line 25
+[11-Nov-2021 15:18:31 America/Mexico_City] PHP Deprecated:  Non-static method Conexion::conectar() should not be called statically in /home/andamio8/public_html/panel.andamiosexpressstore.mx/modelos/categorias.modelo.php on line 45
+[11-Nov-2021 15:19:40 America/Mexico_City] PHP Deprecated:  Non-static method Conexion::conectar() should not be called statically in /home/andamio8/public_html/panel.andamiosexpressstore.mx/modelos/categorias.modelo.php on line 25
+[11-Nov-2021 15:19:42 America/Mexico_City] PHP Deprecated:  Non-static method Conexion::conectar() should not be called statically in /home/andamio8/public_html/panel.andamiosexpressstore.mx/modelos/categorias.modelo.php on line 45
+[11-Nov-2021 15:19:43 America/Mexico_City] PHP Deprecated:  Non-static method Conexion::conectar() should not be called statically in /home/andamio8/public_html/panel.andamiosexpressstore.mx/modelos/categorias.modelo.php on line 45
+[11-Nov-2021 15:19:44 America/Mexico_City] PHP Deprecated:  Non-static method Conexion::conectar() should not be called statically in /home/andamio8/public_html/panel.andamiosexpressstore.mx/modelos/categorias.modelo.php on line 45
+[11-Nov-2021 15:19:48 America/Mexico_City] PHP Deprecated:  Non-static method Conexion::conectar() should not be called statically in /home/andamio8/public_html/panel.andamiosexpressstore.mx/modelos/categorias.modelo.php on line 25
+[11-Nov-2021 15:19:50 America/Mexico_City] PHP Deprecated:  Non-static method Conexion::conectar() should not be called statically in /home/andamio8/public_html/panel.andamiosexpressstore.mx/modelos/categorias.modelo.php on line 45
+[11-Nov-2021 15:24:26 America/Mexico_City] PHP Deprecated:  Non-static method Conexion::conectar() should not be called statically in /home/andamio8/public_html/panel.andamiosexpressstore.mx/modelos/categorias.modelo.php on line 25
+[11-Nov-2021 15:24:39 America/Mexico_City] PHP Deprecated:  Non-static method Conexion::conectar() should not be called statically in /home/andamio8/public_html/panel.andamiosexpressstore.mx/modelos/categorias.modelo.php on line 45
+[11-Nov-2021 15:24:54 America/Mexico_City] PHP Deprecated:  Non-static method Conexion::conectar() should not be called statically in /home/andamio8/public_html/panel.andamiosexpressstore.mx/modelos/categorias.modelo.php on line 45
+[11-Nov-2021 16:00:42 America/Mexico_City] PHP Deprecated:  Non-static method Conexion::conectar() should not be called statically in /home/andamio8/public_html/panel.andamiosexpressstore.mx/modelos/categorias.modelo.php on line 25
+[11-Nov-2021 16:01:00 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to undefined method ModeloProductos::mdlActualizarProductos() in /home/andamio8/public_html/panel.andamiosexpressstore.mx/ajax/categorias.ajax.php:15
+Stack trace:
+#0 /home/andamio8/public_html/panel.andamiosexpressstore.mx/ajax/categorias.ajax.php(27): AjaxCategorias->ajaxActivarCategoria()
+#1 {main}
+  thrown in /home/andamio8/public_html/panel.andamiosexpressstore.mx/ajax/categorias.ajax.php on line 15
+[11-Nov-2021 16:02:51 America/Mexico_City] PHP Deprecated:  Non-static method Conexion::conectar() should not be called statically in /home/andamio8/public_html/panel.andamiosexpressstore.mx/modelos/categorias.modelo.php on line 25
+[11-Nov-2021 16:03:04 America/Mexico_City] PHP Deprecated:  Non-static method Conexion::conectar() should not be called statically in /home/andamio8/public_html/panel.andamiosexpressstore.mx/modelos/productos.modelo.php on line 49
+[11-Nov-2021 16:03:04 America/Mexico_City] PHP Deprecated:  Non-static method Conexion::conectar() should not be called statically in /home/andamio8/public_html/panel.andamiosexpressstore.mx/modelos/categorias.modelo.php on line 45
+[11-Nov-2021 16:31:09 America/Mexico_City] PHP Deprecated:  Non-static method Conexion::conectar() should not be called statically in /home/andamio8/public_html/panel.andamiosexpressstore.mx/modelos/categorias.modelo.php on line 25
+[11-Nov-2021 16:31:13 America/Mexico_City] PHP Deprecated:  Non-static method Conexion::conectar() should not be called statically in /home/andamio8/public_html/panel.andamiosexpressstore.mx/modelos/productos.modelo.php on line 49
+[11-Nov-2021 16:31:13 America/Mexico_City] PHP Deprecated:  Non-static method Conexion::conectar() should not be called statically in /home/andamio8/public_html/panel.andamiosexpressstore.mx/modelos/categorias.modelo.php on line 45
+[11-Nov-2021 16:51:05 America/Mexico_City] PHP Deprecated:  Non-static method Conexion::conectar() should not be called statically in /home/andamio8/public_html/panel.andamiosexpressstore.mx/modelos/categorias.modelo.php on line 25
+[11-Nov-2021 16:51:21 America/Mexico_City] PHP Deprecated:  Non-static method Conexion::conectar() should not be called statically in /home/andamio8/public_html/panel.andamiosexpressstore.mx/modelos/categorias.modelo.php on line 15
+[11-Nov-2021 16:51:49 America/Mexico_City] PHP Deprecated:  Non-static method Conexion::conectar() should not be called statically in /home/andamio8/public_html/panel.andamiosexpressstore.mx/modelos/categorias.modelo.php on line 15
+[11-Nov-2021 16:57:58 America/Mexico_City] PHP Deprecated:  Non-static method Conexion::conectar() should not be called statically in /home/andamio8/public_html/panel.andamiosexpressstore.mx/modelos/categorias.modelo.php on line 25
+[11-Nov-2021 16:58:02 America/Mexico_City] PHP Deprecated:  Non-static method Conexion::conectar() should not be called statically in /home/andamio8/public_html/panel.andamiosexpressstore.mx/modelos/categorias.modelo.php on line 15
+[11-Nov-2021 17:00:07 America/Mexico_City] PHP Deprecated:  Non-static method Conexion::conectar() should not be called statically in /home/andamio8/public_html/panel.andamiosexpressstore.mx/modelos/categorias.modelo.php on line 15
+[11-Nov-2021 17:00:15 America/Mexico_City] PHP Deprecated:  Non-static method Conexion::conectar() should not be called statically in /home/andamio8/public_html/panel.andamiosexpressstore.mx/modelos/categorias.modelo.php on line 15
+[11-Nov-2021 17:47:29 America/Mexico_City] PHP Deprecated:  Non-static method Conexion::conectar() should not be called statically in /home/andamio8/public_html/panel.andamiosexpressstore.mx/modelos/categorias.modelo.php on line 25
+[11-Nov-2021 17:47:45 America/Mexico_City] PHP Deprecated:  Non-static method Conexion::conectar() should not be called statically in /home/andamio8/public_html/panel.andamiosexpressstore.mx/modelos/categorias.modelo.php on line 15
+[11-Nov-2021 17:49:23 America/Mexico_City] PHP Deprecated:  Non-static method Conexion::conectar() should not be called statically in /home/andamio8/public_html/panel.andamiosexpressstore.mx/modelos/categorias.modelo.php on line 25
+[11-Nov-2021 17:49:27 America/Mexico_City] PHP Deprecated:  Non-static method Conexion::conectar() should not be called statically in /home/andamio8/public_html/panel.andamiosexpressstore.mx/modelos/categorias.modelo.php on line 15
+[12-Nov-2021 10:01:21 America/Mexico_City] PHP Parse error:  syntax error, unexpected '"', expecting '-' or identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/andamio8/public_html/panel.andamiosexpressstore.mx/ajax/categorias.ajax.php on line 82
+[12-Nov-2021 10:03:24 America/Mexico_City] PHP Parse error:  syntax error, unexpected '"', expecting '-' or identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/andamio8/public_html/panel.andamiosexpressstore.mx/ajax/categorias.ajax.php on line 82
+[12-Nov-2021 10:04:01 America/Mexico_City] PHP Parse error:  syntax error, unexpected '"', expecting '-' or identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/andamio8/public_html/panel.andamiosexpressstore.mx/ajax/categorias.ajax.php on line 82
+[12-Nov-2021 10:05:18 America/Mexico_City] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/andamio8/public_html/panel.andamiosexpressstore.mx/ajax/categorias.ajax.php on line 60
+[12-Nov-2021 10:06:15 America/Mexico_City] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/andamio8/public_html/panel.andamiosexpressstore.mx/ajax/categorias.ajax.php on line 60
+[16-Nov-2021 12:30:03 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to undefined method ControladorProductos::ctrEditarProducto() in /home/andamio8/public_html/panel.andamiosexpressstore.mx/ajax/productos.ajax.php:106
+Stack trace:
+#0 /home/andamio8/public_html/panel.andamiosexpressstore.mx/ajax/productos.ajax.php(190): AjaxProductos->ajaxCrearProducto()
+#1 {main}
+  thrown in /home/andamio8/public_html/panel.andamiosexpressstore.mx/ajax/productos.ajax.php on line 106
+[16-Nov-2021 12:32:43 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to undefined method ControladorProductos::ctrEditarProducto() in /home/andamio8/public_html/panel.andamiosexpressstore.mx/ajax/productos.ajax.php:106
+Stack trace:
+#0 /home/andamio8/public_html/panel.andamiosexpressstore.mx/ajax/productos.ajax.php(190): AjaxProductos->ajaxCrearProducto()
+#1 {main}
+  thrown in /home/andamio8/public_html/panel.andamiosexpressstore.mx/ajax/productos.ajax.php on line 106
+[16-Nov-2021 12:40:32 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to undefined method ControladorProductos::ctrEditarProducto() in /home/andamio8/public_html/panel.andamiosexpressstore.mx/ajax/productos.ajax.php:106
+Stack trace:
+#0 /home/andamio8/public_html/panel.andamiosexpressstore.mx/ajax/productos.ajax.php(190): AjaxProductos->ajaxCrearProducto()
+#1 {main}
+  thrown in /home/andamio8/public_html/panel.andamiosexpressstore.mx/ajax/productos.ajax.php on line 106
+[16-Nov-2021 15:26:04 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to undefined method ModeloProductos::mdlIngresarProducto() in /home/andamio8/public_html/panel.andamiosexpressstore.mx/controladores/productos.controlador.php:279
+Stack trace:
+#0 /home/andamio8/public_html/panel.andamiosexpressstore.mx/ajax/productos.ajax.php(105): ControladorProductos::ctrCrearProducto(Array)
+#1 /home/andamio8/public_html/panel.andamiosexpressstore.mx/ajax/productos.ajax.php(189): AjaxProductos->ajaxCrearProducto()
+#2 {main}
+  thrown in /home/andamio8/public_html/panel.andamiosexpressstore.mx/controladores/productos.controlador.php on line 279
+[16-Nov-2021 15:26:19 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to undefined method ModeloProductos::mdlIngresarProducto() in /home/andamio8/public_html/panel.andamiosexpressstore.mx/controladores/productos.controlador.php:279
+Stack trace:
+#0 /home/andamio8/public_html/panel.andamiosexpressstore.mx/ajax/productos.ajax.php(105): ControladorProductos::ctrCrearProducto(Array)
+#1 /home/andamio8/public_html/panel.andamiosexpressstore.mx/ajax/productos.ajax.php(189): AjaxProductos->ajaxCrearProducto()
+#2 {main}
+  thrown in /home/andamio8/public_html/panel.andamiosexpressstore.mx/controladores/productos.controlador.php on line 279
+[16-Nov-2021 15:31:05 America/Mexico_City] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'peso' cannot be null in /home/andamio8/public_html/panel.andamiosexpressstore.mx/modelos/productos.modelo.php:128
+Stack trace:
+#0 /home/andamio8/public_html/panel.andamiosexpressstore.mx/modelos/productos.modelo.php(128): PDOStatement->execute()
+#1 /home/andamio8/public_html/panel.andamiosexpressstore.mx/controladores/productos.controlador.php(279): ModeloProductos::mdlIngresarProducto('productos', Array)
+#2 /home/andamio8/public_html/panel.andamiosexpressstore.mx/ajax/productos.ajax.php(105): ControladorProductos::ctrCrearProducto(Array)
+#3 /home/andamio8/public_html/panel.andamiosexpressstore.mx/ajax/productos.ajax.php(189): AjaxProductos->ajaxCrearProducto()
+#4 {main}
+  thrown in /home/andamio8/public_html/panel.andamiosexpressstore.mx/modelos/productos.modelo.php on line 128
+[16-Nov-2021 15:33:42 America/Mexico_City] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'peso' cannot be null in /home/andamio8/public_html/panel.andamiosexpressstore.mx/modelos/productos.modelo.php:128
+Stack trace:
+#0 /home/andamio8/public_html/panel.andamiosexpressstore.mx/modelos/productos.modelo.php(128): PDOStatement->execute()
+#1 /home/andamio8/public_html/panel.andamiosexpressstore.mx/controladores/productos.controlador.php(279): ModeloProductos::mdlIngresarProducto('productos', Array)
+#2 /home/andamio8/public_html/panel.andamiosexpressstore.mx/ajax/productos.ajax.php(105): ControladorProductos::ctrCrearProducto(Array)
+#3 /home/andamio8/public_html/panel.andamiosexpressstore.mx/ajax/productos.ajax.php(189): AjaxProductos->ajaxCrearProducto()
+#4 {main}
+  thrown in /home/andamio8/public_html/panel.andamiosexpressstore.mx/modelos/productos.modelo.php on line 128
+[16-Nov-2021 15:42:03 America/Mexico_City] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'peso' cannot be null in /home/andamio8/public_html/panel.andamiosexpressstore.mx/modelos/productos.modelo.php:129
+Stack trace:
+#0 /home/andamio8/public_html/panel.andamiosexpressstore.mx/modelos/productos.modelo.php(129): PDOStatement->execute()
+#1 /home/andamio8/public_html/panel.andamiosexpressstore.mx/controladores/productos.controlador.php(279): ModeloProductos::mdlIngresarProducto('productos', Array)
+#2 /home/andamio8/public_html/panel.andamiosexpressstore.mx/ajax/productos.ajax.php(105): ControladorProductos::ctrCrearProducto(Array)
+#3 /home/andamio8/public_html/panel.andamiosexpressstore.mx/ajax/productos.ajax.php(189): AjaxProductos->ajaxCrearProducto()
+#4 {main}
+  thrown in /home/andamio8/public_html/panel.andamiosexpressstore.mx/modelos/productos.modelo.php on line 129
+[16-Nov-2021 15:44:25 America/Mexico_City] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'peso' cannot be null in /home/andamio8/public_html/panel.andamiosexpressstore.mx/modelos/productos.modelo.php:129
+Stack trace:
+#0 /home/andamio8/public_html/panel.andamiosexpressstore.mx/modelos/productos.modelo.php(129): PDOStatement->execute()
+#1 /home/andamio8/public_html/panel.andamiosexpressstore.mx/controladores/productos.controlador.php(279): ModeloProductos::mdlIngresarProducto('productos', Array)
+#2 /home/andamio8/public_html/panel.andamiosexpressstore.mx/ajax/productos.ajax.php(105): ControladorProductos::ctrCrearProducto(Array)
+#3 /home/andamio8/public_html/panel.andamiosexpressstore.mx/ajax/productos.ajax.php(189): AjaxProductos->ajaxCrearProducto()
+#4 {main}
+  thrown in /home/andamio8/public_html/panel.andamiosexpressstore.mx/modelos/productos.modelo.php on line 129
+[16-Nov-2021 23:51:15 America/Mexico_City] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'multimedia' cannot be null in /home/andamio8/public_html/panel.andamiosexpressstore.mx/modelos/productos.modelo.php:260
+Stack trace:
+#0 /home/andamio8/public_html/panel.andamiosexpressstore.mx/modelos/productos.modelo.php(260): PDOStatement->execute()
+#1 /home/andamio8/public_html/panel.andamiosexpressstore.mx/controladores/productos.controlador.php(561): ModeloProductos::mdlIngresarProducto('productos', Array)
+#2 /home/andamio8/public_html/panel.andamiosexpressstore.mx/ajax/productos.ajax.php(107): ControladorProductos::ctrCrearProducto(Array)
+#3 /home/andamio8/public_html/panel.andamiosexpressstore.mx/ajax/productos.ajax.php(209): AjaxProductos->ajaxCrearProducto()
+#4 {main}
+  thrown in /home/andamio8/public_html/panel.andamiosexpressstore.mx/modelos/productos.modelo.php on line 260
+[17-Nov-2021 11:22:00 America/Mexico_City] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens in /home/andamio8/public_html/panel.andamiosexpressstore.mx/modelos/productos.modelo.php:314
+Stack trace:
+#0 /home/andamio8/public_html/panel.andamiosexpressstore.mx/modelos/productos.modelo.php(314): PDOStatement->execute()
+#1 /home/andamio8/public_html/panel.andamiosexpressstore.mx/controladores/productos.controlador.php(946): ModeloProductos::mdlEditarProducto('productos', Array)
+#2 /home/andamio8/public_html/panel.andamiosexpressstore.mx/ajax/productos.ajax.php(162): ControladorProductos::ctrEditarProducto(Array)
+#3 /home/andamio8/public_html/panel.andamiosexpressstore.mx/ajax/productos.ajax.php(309): AjaxProductos->ajaxEditarProducto()
+#4 {main}
+  thrown in /home/andamio8/public_html/panel.andamiosexpressstore.mx/modelos/productos.modelo.php on line 314
+[17-Nov-2021 11:22:57 America/Mexico_City] PHP Warning:  unlink(../vistas/img/multimedia/tornillo/Screenshot_2.png): No such file or directory in /home/andamio8/public_html/panel.andamiosexpressstore.mx/controladores/productos.controlador.php on line 651
+[17-Nov-2021 11:22:57 America/Mexico_City] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens in /home/andamio8/public_html/panel.andamiosexpressstore.mx/modelos/productos.modelo.php:314
+Stack trace:
+#0 /home/andamio8/public_html/panel.andamiosexpressstore.mx/modelos/productos.modelo.php(314): PDOStatement->execute()
+#1 /home/andamio8/public_html/panel.andamiosexpressstore.mx/controladores/productos.controlador.php(946): ModeloProductos::mdlEditarProducto('productos', Array)
+#2 /home/andamio8/public_html/panel.andamiosexpressstore.mx/ajax/productos.ajax.php(162): ControladorProductos::ctrEditarProducto(Array)
+#3 /home/andamio8/public_html/panel.andamiosexpressstore.mx/ajax/productos.ajax.php(309): AjaxProductos->ajaxEditarProducto()
+#4 {main}
+  thrown in /home/andamio8/public_html/panel.andamiosexpressstore.mx/modelos/productos.modelo.php on line 314
+[17-Nov-2021 11:24:35 America/Mexico_City] PHP Warning:  unlink(../vistas/img/multimedia/tornillo/Screenshot_2.png): No such file or directory in /home/andamio8/public_html/panel.andamiosexpressstore.mx/controladores/productos.controlador.php on line 651
+[17-Nov-2021 11:24:35 America/Mexico_City] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens in /home/andamio8/public_html/panel.andamiosexpressstore.mx/modelos/productos.modelo.php:314
+Stack trace:
+#0 /home/andamio8/public_html/panel.andamiosexpressstore.mx/modelos/productos.modelo.php(314): PDOStatement->execute()
+#1 /home/andamio8/public_html/panel.andamiosexpressstore.mx/controladores/productos.controlador.php(946): ModeloProductos::mdlEditarProducto('productos', Array)
+#2 /home/andamio8/public_html/panel.andamiosexpressstore.mx/ajax/productos.ajax.php(162): ControladorProductos::ctrEditarProducto(Array)
+#3 /home/andamio8/public_html/panel.andamiosexpressstore.mx/ajax/productos.ajax.php(309): AjaxProductos->ajaxEditarProducto()
+#4 {main}
+  thrown in /home/andamio8/public_html/panel.andamiosexpressstore.mx/modelos/productos.modelo.php on line 314
+[17-Nov-2021 11:26:10 America/Mexico_City] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens in /home/andamio8/public_html/panel.andamiosexpressstore.mx/modelos/productos.modelo.php:314
+Stack trace:
+#0 /home/andamio8/public_html/panel.andamiosexpressstore.mx/modelos/productos.modelo.php(314): PDOStatement->execute()
+#1 /home/andamio8/public_html/panel.andamiosexpressstore.mx/controladores/productos.controlador.php(946): ModeloProductos::mdlEditarProducto('productos', Array)
+#2 /home/andamio8/public_html/panel.andamiosexpressstore.mx/ajax/productos.ajax.php(162): ControladorProductos::ctrEditarProducto(Array)
+#3 /home/andamio8/public_html/panel.andamiosexpressstore.mx/ajax/productos.ajax.php(309): AjaxProductos->ajaxEditarProducto()
+#4 {main}
+  thrown in /home/andamio8/public_html/panel.andamiosexpressstore.mx/modelos/productos.modelo.php on line 314
+[17-Nov-2021 11:31:35 America/Mexico_City] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens in /home/andamio8/public_html/panel.andamiosexpressstore.mx/modelos/productos.modelo.php:314
+Stack trace:
+#0 /home/andamio8/public_html/panel.andamiosexpressstore.mx/modelos/productos.modelo.php(314): PDOStatement->execute()
+#1 /home/andamio8/public_html/panel.andamiosexpressstore.mx/controladores/productos.controlador.php(946): ModeloProductos::mdlEditarProducto('productos', Array)
+#2 /home/andamio8/public_html/panel.andamiosexpressstore.mx/ajax/productos.ajax.php(162): ControladorProductos::ctrEditarProducto(Array)
+#3 /home/andamio8/public_html/panel.andamiosexpressstore.mx/ajax/productos.ajax.php(309): AjaxProductos->ajaxEditarProducto()
+#4 {main}
+  thrown in /home/andamio8/public_html/panel.andamiosexpressstore.mx/modelos/productos.modelo.php on line 314
+[17-Nov-2021 11:32:44 America/Mexico_City] PHP Warning:  unlink(../vistas/img/multimedia/tornillo/Screenshot_2.png): No such file or directory in /home/andamio8/public_html/panel.andamiosexpressstore.mx/controladores/productos.controlador.php on line 651
+[17-Nov-2021 11:32:44 America/Mexico_City] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens in /home/andamio8/public_html/panel.andamiosexpressstore.mx/modelos/productos.modelo.php:314
+Stack trace:
+#0 /home/andamio8/public_html/panel.andamiosexpressstore.mx/modelos/productos.modelo.php(314): PDOStatement->execute()
+#1 /home/andamio8/public_html/panel.andamiosexpressstore.mx/controladores/productos.controlador.php(946): ModeloProductos::mdlEditarProducto('productos', Array)
+#2 /home/andamio8/public_html/panel.andamiosexpressstore.mx/ajax/productos.ajax.php(162): ControladorProductos::ctrEditarProducto(Array)
+#3 /home/andamio8/public_html/panel.andamiosexpressstore.mx/ajax/productos.ajax.php(309): AjaxProductos->ajaxEditarProducto()
+#4 {main}
+  thrown in /home/andamio8/public_html/panel.andamiosexpressstore.mx/modelos/productos.modelo.php on line 314
+[17-Nov-2021 11:34:10 America/Mexico_City] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens in /home/andamio8/public_html/panel.andamiosexpressstore.mx/modelos/productos.modelo.php:314
+Stack trace:
+#0 /home/andamio8/public_html/panel.andamiosexpressstore.mx/modelos/productos.modelo.php(314): PDOStatement->execute()
+#1 /home/andamio8/public_html/panel.andamiosexpressstore.mx/controladores/productos.controlador.php(946): ModeloProductos::mdlEditarProducto('productos', Array)
+#2 /home/andamio8/public_html/panel.andamiosexpressstore.mx/ajax/productos.ajax.php(162): ControladorProductos::ctrEditarProducto(Array)
+#3 /home/andamio8/public_html/panel.andamiosexpressstore.mx/ajax/productos.ajax.php(309): AjaxProductos->ajaxEditarProducto()
+#4 {main}
+  thrown in /home/andamio8/public_html/panel.andamiosexpressstore.mx/modelos/productos.modelo.php on line 314
+[17-Nov-2021 11:38:01 America/Mexico_City] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens in /home/andamio8/public_html/panel.andamiosexpressstore.mx/modelos/productos.modelo.php:314
+Stack trace:
+#0 /home/andamio8/public_html/panel.andamiosexpressstore.mx/modelos/productos.modelo.php(314): PDOStatement->execute()
+#1 /home/andamio8/public_html/panel.andamiosexpressstore.mx/controladores/productos.controlador.php(946): ModeloProductos::mdlEditarProducto('productos', Array)
+#2 /home/andamio8/public_html/panel.andamiosexpressstore.mx/ajax/productos.ajax.php(161): ControladorProductos::ctrEditarProducto(Array)
+#3 /home/andamio8/public_html/panel.andamiosexpressstore.mx/ajax/productos.ajax.php(318): AjaxProductos->ajaxEditarProducto()
+#4 {main}
+  thrown in /home/andamio8/public_html/panel.andamiosexpressstore.mx/modelos/productos.modelo.php on line 314
+[17-Nov-2021 11:42:27 America/Mexico_City] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens in /home/andamio8/public_html/panel.andamiosexpressstore.mx/modelos/productos.modelo.php:314
+Stack trace:
+#0 /home/andamio8/public_html/panel.andamiosexpressstore.mx/modelos/productos.modelo.php(314): PDOStatement->execute()
+#1 /home/andamio8/public_html/panel.andamiosexpressstore.mx/controladores/productos.controlador.php(864): ModeloProductos::mdlEditarProducto('productos', Array)
+#2 /home/andamio8/public_html/panel.andamiosexpressstore.mx/ajax/productos.ajax.php(161): ControladorProductos::ctrEditarProducto(Array)
+#3 /home/andamio8/public_html/panel.andamiosexpressstore.mx/ajax/productos.ajax.php(318): AjaxProductos->ajaxEditarProducto()
+#4 {main}
+  thrown in /home/andamio8/public_html/panel.andamiosexpressstore.mx/modelos/productos.modelo.php on line 314
+[17-Nov-2021 11:46:33 America/Mexico_City] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens in /home/andamio8/public_html/panel.andamiosexpressstore.mx/modelos/productos.modelo.php:314
+Stack trace:
+#0 /home/andamio8/public_html/panel.andamiosexpressstore.mx/modelos/productos.modelo.php(314): PDOStatement->execute()
+#1 /home/andamio8/public_html/panel.andamiosexpressstore.mx/controladores/productos.controlador.php(864): ModeloProductos::mdlEditarProducto('productos', Array)
+#2 /home/andamio8/public_html/panel.andamiosexpressstore.mx/ajax/productos.ajax.php(161): ControladorProductos::ctrEditarProducto(Array)
+#3 /home/andamio8/public_html/panel.andamiosexpressstore.mx/ajax/productos.ajax.php(318): AjaxProductos->ajaxEditarProducto()
+#4 {main}
+  thrown in /home/andamio8/public_html/panel.andamiosexpressstore.mx/modelos/productos.modelo.php on line 314
+[17-Nov-2021 11:47:49 America/Mexico_City] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens in /home/andamio8/public_html/panel.andamiosexpressstore.mx/modelos/productos.modelo.php:314
+Stack trace:
+#0 /home/andamio8/public_html/panel.andamiosexpressstore.mx/modelos/productos.modelo.php(314): PDOStatement->execute()
+#1 /home/andamio8/public_html/panel.andamiosexpressstore.mx/controladores/productos.controlador.php(864): ModeloProductos::mdlEditarProducto('productos', Array)
+#2 /home/andamio8/public_html/panel.andamiosexpressstore.mx/ajax/productos.ajax.php(161): ControladorProductos::ctrEditarProducto(Array)
+#3 /home/andamio8/public_html/panel.andamiosexpressstore.mx/ajax/productos.ajax.php(318): AjaxProductos->ajaxEditarProducto()
+#4 {main}
+  thrown in /home/andamio8/public_html/panel.andamiosexpressstore.mx/modelos/productos.modelo.php on line 314
+[17-Nov-2021 12:22:28 America/Mexico_City] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens in /home/andamio8/public_html/panel.andamiosexpressstore.mx/modelos/productos.modelo.php:314
+Stack trace:
+#0 /home/andamio8/public_html/panel.andamiosexpressstore.mx/modelos/productos.modelo.php(314): PDOStatement->execute()
+#1 /home/andamio8/public_html/panel.andamiosexpressstore.mx/controladores/productos.controlador.php(864): ModeloProductos::mdlEditarProducto('productos', Array)
+#2 /home/andamio8/public_html/panel.andamiosexpressstore.mx/ajax/productos.ajax.php(161): ControladorProductos::ctrEditarProducto(Array)
+#3 /home/andamio8/public_html/panel.andamiosexpressstore.mx/ajax/productos.ajax.php(318): AjaxProductos->ajaxEditarProducto()
+#4 {main}
+  thrown in /home/andamio8/public_html/panel.andamiosexpressstore.mx/modelos/productos.modelo.php on line 314
+[17-Nov-2021 12:33:39 America/Mexico_City] PHP Warning:  unlink(../vistas/img/multimedia/tuerca/Logo AE-03.png): No such file or directory in /home/andamio8/public_html/panel.andamiosexpressstore.mx/controladores/productos.controlador.php on line 651
+[17-Nov-2021 17:58:37 America/Mexico_City] PHP Warning:  mkdir(): File exists in /home/andamio8/public_html/panel.andamiosexpressstore.mx/controladores/productos.controlador.php on line 81
+[18-Nov-2021 10:57:09 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/andamio8/public_html/panel.andamiosexpressstore.mx/controladores/productos.controlador.php on line 641
+[18-Nov-2021 10:57:10 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/andamio8/public_html/panel.andamiosexpressstore.mx/controladores/productos.controlador.php on line 635
+[18-Nov-2021 10:57:10 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/andamio8/public_html/panel.andamiosexpressstore.mx/controladores/productos.controlador.php on line 641
+[18-Nov-2021 10:57:10 America/Mexico_City] PHP Warning:  unlink(../vistas/img/productos/seguirdad.jpg): No such file or directory in /home/andamio8/public_html/panel.andamiosexpressstore.mx/controladores/productos.controlador.php on line 671
+[30-Nov-2021 17:37:49 America/Mexico_City] PHP Deprecated:  Non-static method ControladorVentas::ctrMostrarVentas() should not be called statically in /home/andamio8/public_html/panel.andamiosexpressstore.mx/ajax/tablaVentas.ajax.php on line 16
+[30-Nov-2021 17:38:06 America/Mexico_City] PHP Deprecated:  Non-static method ControladorVentas::ctrMostrarVentas() should not be called statically in /home/andamio8/public_html/panel.andamiosexpressstore.mx/ajax/tablaVentas.ajax.php on line 16
+[30-Nov-2021 17:39:06 America/Mexico_City] PHP Deprecated:  Non-static method ControladorVentas::ctrMostrarVentas() should not be called statically in /home/andamio8/public_html/panel.andamiosexpressstore.mx/ajax/tablaVentas.ajax.php on line 16
+[30-Nov-2021 17:39:08 America/Mexico_City] PHP Deprecated:  Non-static method ControladorVentas::ctrMostrarVentas() should not be called statically in /home/andamio8/public_html/panel.andamiosexpressstore.mx/ajax/tablaVentas.ajax.php on line 16
+[30-Nov-2021 17:44:00 America/Mexico_City] PHP Deprecated:  Non-static method ControladorVentas::ctrMostrarVentas() should not be called statically in /home/andamio8/public_html/panel.andamiosexpressstore.mx/ajax/tablaVentas.ajax.php on line 16
+[30-Nov-2021 17:46:55 America/Mexico_City] PHP Deprecated:  Non-static method ControladorVentas::ctrMostrarVentas() should not be called statically in /home/andamio8/public_html/panel.andamiosexpressstore.mx/ajax/tablaVentas.ajax.php on line 18
+[30-Nov-2021 17:46:55 America/Mexico_City] PHP Deprecated:  Non-static method Ruta::ctrRuta() should not be called statically in /home/andamio8/public_html/panel.andamiosexpressstore.mx/ajax/tablaVentas.ajax.php on line 19
+[30-Nov-2021 17:47:30 America/Mexico_City] PHP Deprecated:  Non-static method ControladorVentas::ctrMostrarVentas() should not be called statically in /home/andamio8/public_html/panel.andamiosexpressstore.mx/ajax/tablaVentas.ajax.php on line 18
+[30-Nov-2021 17:47:30 America/Mexico_City] PHP Deprecated:  Non-static method Ruta::ctrRuta() should not be called statically in /home/andamio8/public_html/panel.andamiosexpressstore.mx/ajax/tablaVentas.ajax.php on line 19
+[30-Nov-2021 17:56:29 America/Mexico_City] PHP Deprecated:  Non-static method ControladorVentas::ctrMostrarVentas() should not be called statically in /home/andamio8/public_html/panel.andamiosexpressstore.mx/ajax/tablaVentas.ajax.php on line 18
+[30-Nov-2021 17:56:29 America/Mexico_City] PHP Deprecated:  Non-static method Ruta::ctrRuta() should not be called statically in /home/andamio8/public_html/panel.andamiosexpressstore.mx/ajax/tablaVentas.ajax.php on line 19
+[30-Nov-2021 17:57:18 America/Mexico_City] PHP Deprecated:  Non-static method ControladorVentas::ctrMostrarVentas() should not be called statically in /home/andamio8/public_html/panel.andamiosexpressstore.mx/ajax/tablaVentas.ajax.php on line 18
+[30-Nov-2021 17:57:18 America/Mexico_City] PHP Deprecated:  Non-static method Ruta::ctrRuta() should not be called statically in /home/andamio8/public_html/panel.andamiosexpressstore.mx/ajax/tablaVentas.ajax.php on line 19
+[30-Nov-2021 17:57:31 America/Mexico_City] PHP Deprecated:  Non-static method ControladorVentas::ctrMostrarVentas() should not be called statically in /home/andamio8/public_html/panel.andamiosexpressstore.mx/ajax/tablaVentas.ajax.php on line 18
+[30-Nov-2021 17:57:31 America/Mexico_City] PHP Deprecated:  Non-static method Ruta::ctrRuta() should not be called statically in /home/andamio8/public_html/panel.andamiosexpressstore.mx/ajax/tablaVentas.ajax.php on line 19
+[30-Nov-2021 17:57:53 America/Mexico_City] PHP Deprecated:  Non-static method ControladorVentas::ctrMostrarVentas() should not be called statically in /home/andamio8/public_html/panel.andamiosexpressstore.mx/ajax/tablaVentas.ajax.php on line 18
+[30-Nov-2021 17:57:54 America/Mexico_City] PHP Deprecated:  Non-static method Ruta::ctrRuta() should not be called statically in /home/andamio8/public_html/panel.andamiosexpressstore.mx/ajax/tablaVentas.ajax.php on line 19
+[01-Dec-2021 09:36:27 America/Mexico_City] PHP Deprecated:  Non-static method ControladorVentas::ctrMostrarVentas() should not be called statically in /home/andamio8/public_html/panel.andamiosexpressstore.mx/ajax/tablaVentas.ajax.php on line 18
+[01-Dec-2021 09:36:27 America/Mexico_City] PHP Deprecated:  Non-static method Ruta::ctrRuta() should not be called statically in /home/andamio8/public_html/panel.andamiosexpressstore.mx/ajax/tablaVentas.ajax.php on line 19
+[01-Dec-2021 09:38:03 America/Mexico_City] PHP Deprecated:  Non-static method ControladorVentas::ctrMostrarVentas() should not be called statically in /home/andamio8/public_html/panel.andamiosexpressstore.mx/ajax/tablaVentas.ajax.php on line 18
+[01-Dec-2021 09:38:03 America/Mexico_City] PHP Deprecated:  Non-static method Ruta::ctrRuta() should not be called statically in /home/andamio8/public_html/panel.andamiosexpressstore.mx/ajax/tablaVentas.ajax.php on line 19
+[01-Dec-2021 09:38:15 America/Mexico_City] PHP Deprecated:  Non-static method ControladorVentas::ctrMostrarVentas() should not be called statically in /home/andamio8/public_html/panel.andamiosexpressstore.mx/ajax/tablaVentas.ajax.php on line 18
+[01-Dec-2021 09:38:15 America/Mexico_City] PHP Deprecated:  Non-static method Ruta::ctrRuta() should not be called statically in /home/andamio8/public_html/panel.andamiosexpressstore.mx/ajax/tablaVentas.ajax.php on line 19
+[01-Dec-2021 09:38:49 America/Mexico_City] PHP Deprecated:  Non-static method ControladorVentas::ctrMostrarVentas() should not be called statically in /home/andamio8/public_html/panel.andamiosexpressstore.mx/ajax/tablaVentas.ajax.php on line 18
+[01-Dec-2021 09:38:49 America/Mexico_City] PHP Deprecated:  Non-static method Ruta::ctrRuta() should not be called statically in /home/andamio8/public_html/panel.andamiosexpressstore.mx/ajax/tablaVentas.ajax.php on line 19
+[01-Dec-2021 10:04:33 America/Mexico_City] PHP Deprecated:  Non-static method ControladorVentas::ctrMostrarVentas() should not be called statically in /home/andamio8/public_html/panel.andamiosexpressstore.mx/ajax/tablaVentas.ajax.php on line 18
+[01-Dec-2021 10:04:33 America/Mexico_City] PHP Deprecated:  Non-static method Ruta::ctrRuta() should not be called statically in /home/andamio8/public_html/panel.andamiosexpressstore.mx/ajax/tablaVentas.ajax.php on line 19
+[01-Dec-2021 10:04:49 America/Mexico_City] PHP Deprecated:  Non-static method ControladorVentas::ctrMostrarVentas() should not be called statically in /home/andamio8/public_html/panel.andamiosexpressstore.mx/ajax/tablaVentas.ajax.php on line 18
+[01-Dec-2021 10:04:49 America/Mexico_City] PHP Deprecated:  Non-static method Ruta::ctrRuta() should not be called statically in /home/andamio8/public_html/panel.andamiosexpressstore.mx/ajax/tablaVentas.ajax.php on line 19
+[01-Dec-2021 10:08:17 America/Mexico_City] PHP Deprecated:  Non-static method ControladorVentas::ctrMostrarVentas() should not be called statically in /home/andamio8/public_html/panel.andamiosexpressstore.mx/ajax/tablaVentas.ajax.php on line 18
+[01-Dec-2021 10:08:17 America/Mexico_City] PHP Deprecated:  Non-static method Ruta::ctrRuta() should not be called statically in /home/andamio8/public_html/panel.andamiosexpressstore.mx/ajax/tablaVentas.ajax.php on line 19
+[01-Dec-2021 10:10:04 America/Mexico_City] PHP Deprecated:  Non-static method ControladorVentas::ctrMostrarVentas() should not be called statically in /home/andamio8/public_html/panel.andamiosexpressstore.mx/ajax/tablaVentas.ajax.php on line 18
+[01-Dec-2021 10:10:04 America/Mexico_City] PHP Deprecated:  Non-static method Ruta::ctrRuta() should not be called statically in /home/andamio8/public_html/panel.andamiosexpressstore.mx/ajax/tablaVentas.ajax.php on line 19
+[01-Dec-2021 10:10:37 America/Mexico_City] PHP Deprecated:  Non-static method ControladorVentas::ctrMostrarVentas() should not be called statically in /home/andamio8/public_html/panel.andamiosexpressstore.mx/ajax/tablaVentas.ajax.php on line 18
+[01-Dec-2021 10:10:37 America/Mexico_City] PHP Deprecated:  Non-static method Ruta::ctrRuta() should not be called statically in /home/andamio8/public_html/panel.andamiosexpressstore.mx/ajax/tablaVentas.ajax.php on line 19
+[01-Dec-2021 10:27:12 America/Mexico_City] PHP Deprecated:  Non-static method ControladorVentas::ctrMostrarVentas() should not be called statically in /home/andamio8/public_html/panel.andamiosexpressstore.mx/ajax/tablaVentas.ajax.php on line 18
+[01-Dec-2021 10:27:12 America/Mexico_City] PHP Deprecated:  Non-static method Ruta::ctrRuta() should not be called statically in /home/andamio8/public_html/panel.andamiosexpressstore.mx/ajax/tablaVentas.ajax.php on line 19
+[01-Dec-2021 11:39:15 America/Mexico_City] PHP Warning:  unlink(../vistas/img/multimedia/andamio-banquetero/Andamio Banquetero - FB.jpg): No such file or directory in /home/andamio8/public_html/panel.andamiosexpressstore.mx/controladores/productos.controlador.php on line 396
+[01-Dec-2021 11:39:15 America/Mexico_City] PHP Warning:  unlink(../vistas/img/productos/andamio-banquetero.jpg): No such file or directory in /home/andamio8/public_html/panel.andamiosexpressstore.mx/controladores/productos.controlador.php on line 416
+[01-Dec-2021 11:40:15 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/andamio8/public_html/panel.andamiosexpressstore.mx/controladores/productos.controlador.php on line 386
+[02-Dec-2021 09:46:01 America/Mexico_City] PHP Deprecated:  Non-static method ControladorVentas::ctrMostrarVentas() should not be called statically in /home/andamio8/public_html/panel.andamiosexpressstore.mx/ajax/tablaVentas.ajax.php on line 18
+[02-Dec-2021 09:46:01 America/Mexico_City] PHP Deprecated:  Non-static method Ruta::ctrRuta() should not be called statically in /home/andamio8/public_html/panel.andamiosexpressstore.mx/ajax/tablaVentas.ajax.php on line 19
+[02-Dec-2021 09:46:31 America/Mexico_City] PHP Deprecated:  Non-static method ControladorVentas::ctrMostrarVentas() should not be called statically in /home/andamio8/public_html/panel.andamiosexpressstore.mx/ajax/tablaVentas.ajax.php on line 18
+[02-Dec-2021 09:46:31 America/Mexico_City] PHP Deprecated:  Non-static method Ruta::ctrRuta() should not be called statically in /home/andamio8/public_html/panel.andamiosexpressstore.mx/ajax/tablaVentas.ajax.php on line 19
+[02-Dec-2021 09:46:35 America/Mexico_City] PHP Deprecated:  Non-static method ControladorVentas::ctrMostrarVentas() should not be called statically in /home/andamio8/public_html/panel.andamiosexpressstore.mx/ajax/tablaVentas.ajax.php on line 18
+[02-Dec-2021 09:46:35 America/Mexico_City] PHP Deprecated:  Non-static method Ruta::ctrRuta() should not be called statically in /home/andamio8/public_html/panel.andamiosexpressstore.mx/ajax/tablaVentas.ajax.php on line 19
+[02-Dec-2021 09:48:15 America/Mexico_City] PHP Deprecated:  Non-static method ControladorVentas::ctrMostrarVentas() should not be called statically in /home/andamio8/public_html/panel.andamiosexpressstore.mx/ajax/tablaVentas.ajax.php on line 18
+[02-Dec-2021 09:48:15 America/Mexico_City] PHP Deprecated:  Non-static method Ruta::ctrRuta() should not be called statically in /home/andamio8/public_html/panel.andamiosexpressstore.mx/ajax/tablaVentas.ajax.php on line 19
+[02-Dec-2021 09:50:43 America/Mexico_City] PHP Deprecated:  Non-static method ControladorVentas::ctrMostrarVentas() should not be called statically in /home/andamio8/public_html/panel.andamiosexpressstore.mx/ajax/tablaVentas.ajax.php on line 18
+[02-Dec-2021 09:50:43 America/Mexico_City] PHP Deprecated:  Non-static method Ruta::ctrRuta() should not be called statically in /home/andamio8/public_html/panel.andamiosexpressstore.mx/ajax/tablaVentas.ajax.php on line 19
+[02-Dec-2021 09:58:53 America/Mexico_City] PHP Deprecated:  Non-static method ControladorVentas::ctrMostrarVentas() should not be called statically in /home/andamio8/public_html/panel.andamiosexpressstore.mx/ajax/tablaVentas.ajax.php on line 18
+[02-Dec-2021 09:58:53 America/Mexico_City] PHP Deprecated:  Non-static method Ruta::ctrRuta() should not be called statically in /home/andamio8/public_html/panel.andamiosexpressstore.mx/ajax/tablaVentas.ajax.php on line 19
+[02-Dec-2021 09:59:15 America/Mexico_City] PHP Deprecated:  Non-static method ControladorVentas::ctrMostrarVentas() should not be called statically in /home/andamio8/public_html/panel.andamiosexpressstore.mx/ajax/tablaVentas.ajax.php on line 18
+[02-Dec-2021 09:59:15 America/Mexico_City] PHP Deprecated:  Non-static method Ruta::ctrRuta() should not be called statically in /home/andamio8/public_html/panel.andamiosexpressstore.mx/ajax/tablaVentas.ajax.php on line 19
+[02-Dec-2021 10:08:41 America/Mexico_City] PHP Deprecated:  Non-static method ControladorVentas::ctrMostrarVentas() should not be called statically in /home/andamio8/public_html/panel.andamiosexpressstore.mx/ajax/tablaVentas.ajax.php on line 18
+[02-Dec-2021 10:08:41 America/Mexico_City] PHP Deprecated:  Non-static method Ruta::ctrRuta() should not be called statically in /home/andamio8/public_html/panel.andamiosexpressstore.mx/ajax/tablaVentas.ajax.php on line 19
+[02-Dec-2021 10:08:49 America/Mexico_City] PHP Deprecated:  Non-static method ControladorVentas::ctrMostrarVentas() should not be called statically in /home/andamio8/public_html/panel.andamiosexpressstore.mx/ajax/tablaVentas.ajax.php on line 18
+[02-Dec-2021 10:08:49 America/Mexico_City] PHP Deprecated:  Non-static method Ruta::ctrRuta() should not be called statically in /home/andamio8/public_html/panel.andamiosexpressstore.mx/ajax/tablaVentas.ajax.php on line 19
+[02-Dec-2021 10:09:39 America/Mexico_City] PHP Deprecated:  Non-static method ControladorVentas::ctrMostrarVentas() should not be called statically in /home/andamio8/public_html/panel.andamiosexpressstore.mx/ajax/tablaVentas.ajax.php on line 18
+[02-Dec-2021 10:09:39 America/Mexico_City] PHP Deprecated:  Non-static method Ruta::ctrRuta() should not be called statically in /home/andamio8/public_html/panel.andamiosexpressstore.mx/ajax/tablaVentas.ajax.php on line 19
+[02-Dec-2021 10:12:21 America/Mexico_City] PHP Deprecated:  Non-static method ControladorVentas::ctrMostrarVentas() should not be called statically in /home/andamio8/public_html/panel.andamiosexpressstore.mx/ajax/tablaVentas.ajax.php on line 18
+[02-Dec-2021 10:12:21 America/Mexico_City] PHP Deprecated:  Non-static method Ruta::ctrRuta() should not be called statically in /home/andamio8/public_html/panel.andamiosexpressstore.mx/ajax/tablaVentas.ajax.php on line 19
+[02-Dec-2021 10:14:50 America/Mexico_City] PHP Deprecated:  Non-static method Ruta::ctrRuta() should not be called statically in /home/andamio8/public_html/panel.andamiosexpressstore.mx/ajax/tablaVentas.ajax.php on line 19
+[02-Dec-2021 10:15:26 America/Mexico_City] PHP Deprecated:  Non-static method Ruta::ctrRuta() should not be called statically in /home/andamio8/public_html/panel.andamiosexpressstore.mx/ajax/tablaVentas.ajax.php on line 19
+[02-Dec-2021 10:17:10 America/Mexico_City] PHP Deprecated:  Non-static method Ruta::ctrRuta() should not be called statically in /home/andamio8/public_html/panel.andamiosexpressstore.mx/ajax/tablaVentas.ajax.php on line 19
+[02-Dec-2021 10:17:23 America/Mexico_City] PHP Deprecated:  Non-static method Ruta::ctrRuta() should not be called statically in /home/andamio8/public_html/panel.andamiosexpressstore.mx/ajax/tablaVentas.ajax.php on line 19
+[02-Dec-2021 10:20:16 America/Mexico_City] PHP Deprecated:  Non-static method Ruta::ctrRuta() should not be called statically in /home/andamio8/public_html/panel.andamiosexpressstore.mx/ajax/tablaVentas.ajax.php on line 19
+[02-Dec-2021 10:20:51 America/Mexico_City] PHP Deprecated:  Non-static method Ruta::ctrRuta() should not be called statically in /home/andamio8/public_html/panel.andamiosexpressstore.mx/ajax/tablaVentas.ajax.php on line 19
+[02-Dec-2021 10:20:59 America/Mexico_City] PHP Deprecated:  Non-static method Ruta::ctrRuta() should not be called statically in /home/andamio8/public_html/panel.andamiosexpressstore.mx/ajax/tablaVentas.ajax.php on line 19
+[02-Dec-2021 10:21:46 America/Mexico_City] PHP Deprecated:  Non-static method Ruta::ctrRuta() should not be called statically in /home/andamio8/public_html/panel.andamiosexpressstore.mx/ajax/tablaVentas.ajax.php on line 19
+[02-Dec-2021 10:21:58 America/Mexico_City] PHP Deprecated:  Non-static method Ruta::ctrRuta() should not be called statically in /home/andamio8/public_html/panel.andamiosexpressstore.mx/ajax/tablaVentas.ajax.php on line 19
+[02-Dec-2021 10:22:57 America/Mexico_City] PHP Deprecated:  Non-static method Ruta::ctrRuta() should not be called statically in /home/andamio8/public_html/panel.andamiosexpressstore.mx/ajax/tablaVentas.ajax.php on line 19
+[02-Dec-2021 10:23:15 America/Mexico_City] PHP Deprecated:  Non-static method Ruta::ctrRuta() should not be called statically in /home/andamio8/public_html/panel.andamiosexpressstore.mx/ajax/tablaVentas.ajax.php on line 19
+[02-Dec-2021 10:55:38 America/Mexico_City] PHP Deprecated:  Non-static method Ruta::ctrRuta() should not be called statically in /home/andamio8/public_html/panel.andamiosexpressstore.mx/ajax/tablaVentas.ajax.php on line 19
+[02-Dec-2021 12:35:48 America/Mexico_City] PHP Deprecated:  Non-static method Ruta::ctrRuta() should not be called statically in /home/andamio8/public_html/panel.andamiosexpressstore.mx/ajax/tablaVentas.ajax.php on line 19
+[02-Dec-2021 12:38:59 America/Mexico_City] PHP Deprecated:  Non-static method Ruta::ctrRuta() should not be called statically in /home/andamio8/public_html/panel.andamiosexpressstore.mx/ajax/tablaVentas.ajax.php on line 19
+[02-Dec-2021 15:08:05 America/Mexico_City] PHP Deprecated:  Non-static method Ruta::ctrRuta() should not be called statically in /home/andamio8/public_html/panel.andamiosexpressstore.mx/ajax/tablaVentas.ajax.php on line 19
+[02-Dec-2021 15:15:27 America/Mexico_City] PHP Deprecated:  Non-static method Ruta::ctrRuta() should not be called statically in /home/andamio8/public_html/panel.andamiosexpressstore.mx/ajax/tablaVentas.ajax.php on line 19
+[06-Dec-2021 12:54:22 America/Mexico_City] PHP Deprecated:  Non-static method Ruta::ctrRuta() should not be called statically in /home/andamio8/public_html/panel.andamiosexpressstore.mx/ajax/tablaVentas.ajax.php on line 19
+[06-Dec-2021 16:44:55 America/Mexico_City] PHP Deprecated:  Non-static method Ruta::ctrRuta() should not be called statically in /home/andamio8/public_html/panel.andamiosexpressstore.mx/ajax/tablaVentas.ajax.php on line 19
+[08-Dec-2021 09:53:21 America/Mexico_City] PHP Deprecated:  Non-static method Ruta::ctrRuta() should not be called statically in /home/andamio8/public_html/panel.andamiosexpressstore.mx/ajax/tablaVentas.ajax.php on line 19
+[09-Dec-2021 17:00:28 America/Mexico_City] PHP Deprecated:  Non-static method Ruta::ctrRuta() should not be called statically in /home/andamio8/public_html/panel.andamiosexpressstore.mx/ajax/tablaVentas.ajax.php on line 19
+[09-Dec-2021 17:39:07 America/Mexico_City] PHP Deprecated:  Non-static method Ruta::ctrRuta() should not be called statically in /home/andamio8/public_html/panel.andamiosexpressstore.mx/ajax/tablaVentas.ajax.php on line 19
+[09-Dec-2021 17:47:45 America/Mexico_City] PHP Deprecated:  Non-static method Ruta::ctrRuta() should not be called statically in /home/andamio8/public_html/panel.andamiosexpressstore.mx/ajax/tablaVentas.ajax.php on line 19
+[09-Dec-2021 17:49:41 America/Mexico_City] PHP Deprecated:  Non-static method Ruta::ctrRuta() should not be called statically in /home/andamio8/public_html/panel.andamiosexpressstore.mx/ajax/tablaVentas.ajax.php on line 19
+[09-Dec-2021 17:50:12 America/Mexico_City] PHP Deprecated:  Non-static method Ruta::ctrRuta() should not be called statically in /home/andamio8/public_html/panel.andamiosexpressstore.mx/ajax/tablaVentas.ajax.php on line 19
+[09-Dec-2021 17:50:43 America/Mexico_City] PHP Deprecated:  Non-static method Ruta::ctrRuta() should not be called statically in /home/andamio8/public_html/panel.andamiosexpressstore.mx/ajax/tablaVentas.ajax.php on line 19
+[09-Dec-2021 17:51:19 America/Mexico_City] PHP Deprecated:  Non-static method Ruta::ctrRuta() should not be called statically in /home/andamio8/public_html/panel.andamiosexpressstore.mx/ajax/tablaVentas.ajax.php on line 19
+[10-Dec-2021 12:29:44 America/Mexico_City] PHP Deprecated:  Non-static method Ruta::ctrRuta() should not be called statically in /home/andamio8/public_html/panel.andamiosexpressstore.mx/ajax/tablaVentas.ajax.php on line 19
+[10-Dec-2021 12:38:54 America/Mexico_City] PHP Deprecated:  Non-static method Ruta::ctrRuta() should not be called statically in /home/andamio8/public_html/panel.andamiosexpressstore.mx/ajax/tablaVentas.ajax.php on line 19
+[10-Dec-2021 12:38:57 America/Mexico_City] PHP Deprecated:  Non-static method Ruta::ctrRuta() should not be called statically in /home/andamio8/public_html/panel.andamiosexpressstore.mx/ajax/tablaVentas.ajax.php on line 19
+[10-Dec-2021 12:49:25 America/Mexico_City] PHP Deprecated:  Non-static method Ruta::ctrRuta() should not be called statically in /home/andamio8/public_html/panel.andamiosexpressstore.mx/ajax/tablaVentas.ajax.php on line 19
+[11-Dec-2021 09:51:39 America/Mexico_City] PHP Deprecated:  Non-static method Ruta::ctrRuta() should not be called statically in /home/andamio8/public_html/panel.andamiosexpressstore.mx/ajax/tablaVentas.ajax.php on line 19
+[11-Dec-2021 09:54:09 America/Mexico_City] PHP Deprecated:  Non-static method Ruta::ctrRuta() should not be called statically in /home/andamio8/public_html/panel.andamiosexpressstore.mx/ajax/tablaVentas.ajax.php on line 19
+[11-Dec-2021 11:04:43 America/Mexico_City] PHP Deprecated:  Non-static method Ruta::ctrRuta() should not be called statically in /home/andamio8/public_html/panel.andamiosexpressstore.mx/ajax/tablaVentas.ajax.php on line 19
+[11-Dec-2021 11:34:17 America/Mexico_City] PHP Deprecated:  Non-static method Ruta::ctrRuta() should not be called statically in /home/andamio8/public_html/panel.andamiosexpressstore.mx/ajax/tablaVentas.ajax.php on line 19
+[11-Dec-2021 11:36:47 America/Mexico_City] PHP Deprecated:  Non-static method Ruta::ctrRuta() should not be called statically in /home/andamio8/public_html/panel.andamiosexpressstore.mx/ajax/tablaVentas.ajax.php on line 19
+[13-Dec-2021 09:35:22 America/Mexico_City] PHP Deprecated:  Non-static method Ruta::ctrRuta() should not be called statically in /home/andamio8/public_html/panel.andamiosexpressstore.mx/ajax/tablaVentas.ajax.php on line 19
+[13-Dec-2021 16:11:22 America/Mexico_City] PHP Deprecated:  Non-static method Ruta::ctrRuta() should not be called statically in /home/andamio8/public_html/panel.andamiosexpressstore.mx/ajax/tablaVentas.ajax.php on line 19
+[14-Dec-2021 16:42:12 America/Mexico_City] PHP Deprecated:  Non-static method Ruta::ctrRuta() should not be called statically in /home/andamio8/public_html/panel.andamiosexpressstore.mx/ajax/tablaVentas.ajax.php on line 19
+[16-Dec-2021 11:59:34 America/Mexico_City] PHP Deprecated:  Non-static method Ruta::ctrRuta() should not be called statically in /home/andamio8/public_html/panel.andamiosexpressstore.mx/ajax/tablaVentas.ajax.php on line 19
+[16-Dec-2021 12:02:51 America/Mexico_City] PHP Deprecated:  Non-static method Ruta::ctrRuta() should not be called statically in /home/andamio8/public_html/panel.andamiosexpressstore.mx/ajax/tablaVentas.ajax.php on line 19
+[16-Dec-2021 12:17:56 America/Mexico_City] PHP Deprecated:  Non-static method Ruta::ctrRuta() should not be called statically in /home/andamio8/public_html/panel.andamiosexpressstore.mx/ajax/tablaVentas.ajax.php on line 19
+[16-Dec-2021 12:18:18 America/Mexico_City] PHP Deprecated:  Non-static method Ruta::ctrRuta() should not be called statically in /home/andamio8/public_html/panel.andamiosexpressstore.mx/ajax/tablaVentas.ajax.php on line 19
+[16-Dec-2021 12:47:48 America/Mexico_City] PHP Deprecated:  Non-static method Ruta::ctrRuta() should not be called statically in /home/andamio8/public_html/panel.andamiosexpressstore.mx/ajax/tablaVentas.ajax.php on line 19
+[16-Dec-2021 12:56:43 America/Mexico_City] PHP Deprecated:  Non-static method Ruta::ctrRuta() should not be called statically in /home/andamio8/public_html/panel.andamiosexpressstore.mx/ajax/tablaVentas.ajax.php on line 19
+[16-Dec-2021 12:59:59 America/Mexico_City] PHP Deprecated:  Non-static method Ruta::ctrRuta() should not be called statically in /home/andamio8/public_html/panel.andamiosexpressstore.mx/ajax/tablaVentas.ajax.php on line 19
+[16-Dec-2021 13:01:59 America/Mexico_City] PHP Deprecated:  Non-static method Ruta::ctrRuta() should not be called statically in /home/andamio8/public_html/panel.andamiosexpressstore.mx/ajax/tablaVentas.ajax.php on line 19
+[16-Dec-2021 13:02:27 America/Mexico_City] PHP Deprecated:  Non-static method Ruta::ctrRuta() should not be called statically in /home/andamio8/public_html/panel.andamiosexpressstore.mx/ajax/tablaVentas.ajax.php on line 19
+[16-Dec-2021 13:03:01 America/Mexico_City] PHP Deprecated:  Non-static method Ruta::ctrRuta() should not be called statically in /home/andamio8/public_html/panel.andamiosexpressstore.mx/ajax/tablaVentas.ajax.php on line 19
+[16-Dec-2021 13:03:21 America/Mexico_City] PHP Deprecated:  Non-static method Ruta::ctrRuta() should not be called statically in /home/andamio8/public_html/panel.andamiosexpressstore.mx/ajax/tablaVentas.ajax.php on line 19
+[16-Dec-2021 13:03:50 America/Mexico_City] PHP Deprecated:  Non-static method Ruta::ctrRuta() should not be called statically in /home/andamio8/public_html/panel.andamiosexpressstore.mx/ajax/tablaVentas.ajax.php on line 19
+[16-Dec-2021 13:04:00 America/Mexico_City] PHP Deprecated:  Non-static method Ruta::ctrRuta() should not be called statically in /home/andamio8/public_html/panel.andamiosexpressstore.mx/ajax/tablaVentas.ajax.php on line 19
+[16-Dec-2021 15:20:16 America/Mexico_City] PHP Deprecated:  Non-static method Ruta::ctrRuta() should not be called statically in /home/andamio8/public_html/panel.andamiosexpressstore.mx/ajax/tablaVentas.ajax.php on line 19
+[16-Dec-2021 15:42:13 America/Mexico_City] PHP Deprecated:  Non-static method Ruta::ctrRuta() should not be called statically in /home/andamio8/public_html/panel.andamiosexpressstore.mx/ajax/tablaVentas.ajax.php on line 19
+[16-Dec-2021 15:42:13 America/Mexico_City] PHP Deprecated:  Non-static method Ruta::ctrRuta() should not be called statically in /home/andamio8/public_html/panel.andamiosexpressstore.mx/ajax/tablaVentas.ajax.php on line 19
+[16-Dec-2021 15:42:13 America/Mexico_City] PHP Deprecated:  Non-static method Ruta::ctrRuta() should not be called statically in /home/andamio8/public_html/panel.andamiosexpressstore.mx/ajax/tablaVentas.ajax.php on line 19
+[16-Dec-2021 15:42:13 America/Mexico_City] PHP Deprecated:  Non-static method Ruta::ctrRuta() should not be called statically in /home/andamio8/public_html/panel.andamiosexpressstore.mx/ajax/tablaVentas.ajax.php on line 19
+[16-Dec-2021 15:42:13 America/Mexico_City] PHP Deprecated:  Non-static method Ruta::ctrRuta() should not be called statically in /home/andamio8/public_html/panel.andamiosexpressstore.mx/ajax/tablaVentas.ajax.php on line 19
+[16-Dec-2021 15:42:14 America/Mexico_City] PHP Deprecated:  Non-static method Ruta::ctrRuta() should not be called statically in /home/andamio8/public_html/panel.andamiosexpressstore.mx/ajax/tablaVentas.ajax.php on line 19
+[16-Dec-2021 15:42:14 America/Mexico_City] PHP Deprecated:  Non-static method Ruta::ctrRuta() should not be called statically in /home/andamio8/public_html/panel.andamiosexpressstore.mx/ajax/tablaVentas.ajax.php on line 19
+[16-Dec-2021 15:42:15 America/Mexico_City] PHP Deprecated:  Non-static method Ruta::ctrRuta() should not be called statically in /home/andamio8/public_html/panel.andamiosexpressstore.mx/ajax/tablaVentas.ajax.php on line 19
+[16-Dec-2021 15:42:15 America/Mexico_City] PHP Deprecated:  Non-static method Ruta::ctrRuta() should not be called statically in /home/andamio8/public_html/panel.andamiosexpressstore.mx/ajax/tablaVentas.ajax.php on line 19
+[16-Dec-2021 15:42:15 America/Mexico_City] PHP Deprecated:  Non-static method Ruta::ctrRuta() should not be called statically in /home/andamio8/public_html/panel.andamiosexpressstore.mx/ajax/tablaVentas.ajax.php on line 19
+[16-Dec-2021 15:42:15 America/Mexico_City] PHP Deprecated:  Non-static method Ruta::ctrRuta() should not be called statically in /home/andamio8/public_html/panel.andamiosexpressstore.mx/ajax/tablaVentas.ajax.php on line 19
+[16-Dec-2021 15:42:15 America/Mexico_City] PHP Deprecated:  Non-static method Ruta::ctrRuta() should not be called statically in /home/andamio8/public_html/panel.andamiosexpressstore.mx/ajax/tablaVentas.ajax.php on line 19
+[16-Dec-2021 16:49:47 America/Mexico_City] PHP Deprecated:  Non-static method Ruta::ctrRuta() should not be called statically in /home/andamio8/public_html/panel.andamiosexpressstore.mx/ajax/tablaVentas.ajax.php on line 19
+[16-Dec-2021 16:50:21 America/Mexico_City] PHP Deprecated:  Non-static method Ruta::ctrRuta() should not be called statically in /home/andamio8/public_html/panel.andamiosexpressstore.mx/ajax/tablaVentas.ajax.php on line 19
+[16-Dec-2021 17:16:59 America/Mexico_City] PHP Deprecated:  Non-static method Ruta::ctrRuta() should not be called statically in /home/andamio8/public_html/panel.andamiosexpressstore.mx/ajax/tablaVentas.ajax.php on line 19
+[17-Dec-2021 09:28:21 America/Mexico_City] PHP Deprecated:  Non-static method Ruta::ctrRuta() should not be called statically in /home/andamio8/public_html/panel.andamiosexpressstore.mx/ajax/tablaVentas.ajax.php on line 19
+[17-Dec-2021 09:58:49 America/Mexico_City] PHP Deprecated:  Non-static method Ruta::ctrRuta() should not be called statically in /home/andamio8/public_html/panel.andamiosexpressstore.mx/ajax/tablaVentas.ajax.php on line 19
+[17-Dec-2021 17:10:09 America/Mexico_City] PHP Deprecated:  Non-static method Ruta::ctrRuta() should not be called statically in /home/andamio8/public_html/panel.andamiosexpressstore.mx/ajax/tablaVentas.ajax.php on line 19
+[17-Dec-2021 17:10:23 America/Mexico_City] PHP Deprecated:  Non-static method Ruta::ctrRuta() should not be called statically in /home/andamio8/public_html/panel.andamiosexpressstore.mx/ajax/tablaVentas.ajax.php on line 19
+[17-Dec-2021 17:13:57 America/Mexico_City] PHP Deprecated:  Non-static method Ruta::ctrRuta() should not be called statically in /home/andamio8/public_html/panel.andamiosexpressstore.mx/ajax/tablaVentas.ajax.php on line 19
+[20-Dec-2021 09:26:15 America/Mexico_City] PHP Deprecated:  Non-static method Ruta::ctrRuta() should not be called statically in /home/andamio8/public_html/panel.andamiosexpressstore.mx/ajax/tablaVentas.ajax.php on line 19
+[20-Dec-2021 09:27:31 America/Mexico_City] PHP Deprecated:  Non-static method Ruta::ctrRuta() should not be called statically in /home/andamio8/public_html/panel.andamiosexpressstore.mx/ajax/tablaVentas.ajax.php on line 19
+[20-Dec-2021 12:18:45 America/Mexico_City] PHP Deprecated:  Non-static method Ruta::ctrRuta() should not be called statically in /home/andamio8/public_html/panel.andamiosexpressstore.mx/ajax/tablaVentas.ajax.php on line 19
+[20-Dec-2021 12:29:06 America/Mexico_City] PHP Deprecated:  Non-static method Ruta::ctrRuta() should not be called statically in /home/andamio8/public_html/panel.andamiosexpressstore.mx/ajax/tablaVentas.ajax.php on line 19
+[20-Dec-2021 15:16:34 America/Mexico_City] PHP Deprecated:  Non-static method Ruta::ctrRuta() should not be called statically in /home/andamio8/public_html/panel.andamiosexpressstore.mx/ajax/tablaVentas.ajax.php on line 19
+[20-Dec-2021 16:02:21 America/Mexico_City] PHP Deprecated:  Non-static method Ruta::ctrRuta() should not be called statically in /home/andamio8/public_html/panel.andamiosexpressstore.mx/ajax/tablaVentas.ajax.php on line 19
+[20-Dec-2021 16:06:22 America/Mexico_City] PHP Deprecated:  Non-static method Ruta::ctrRuta() should not be called statically in /home/andamio8/public_html/panel.andamiosexpressstore.mx/ajax/tablaVentas.ajax.php on line 19
+[20-Dec-2021 16:11:22 America/Mexico_City] PHP Deprecated:  Non-static method Ruta::ctrRuta() should not be called statically in /home/andamio8/public_html/panel.andamiosexpressstore.mx/ajax/tablaVentas.ajax.php on line 19
+[20-Dec-2021 16:12:13 America/Mexico_City] PHP Deprecated:  Non-static method Ruta::ctrRuta() should not be called statically in /home/andamio8/public_html/panel.andamiosexpressstore.mx/ajax/tablaVentas.ajax.php on line 19
+[20-Dec-2021 16:42:12 America/Mexico_City] PHP Deprecated:  Non-static method Ruta::ctrRuta() should not be called statically in /home/andamio8/public_html/panel.andamiosexpressstore.mx/ajax/tablaVentas.ajax.php on line 19
+[20-Dec-2021 16:43:15 America/Mexico_City] PHP Deprecated:  Non-static method Ruta::ctrRuta() should not be called statically in /home/andamio8/public_html/panel.andamiosexpressstore.mx/ajax/tablaVentas.ajax.php on line 19
+[20-Dec-2021 16:44:21 America/Mexico_City] PHP Deprecated:  Non-static method Ruta::ctrRuta() should not be called statically in /home/andamio8/public_html/panel.andamiosexpressstore.mx/ajax/tablaVentas.ajax.php on line 19
+[20-Dec-2021 16:44:33 America/Mexico_City] PHP Deprecated:  Non-static method Ruta::ctrRuta() should not be called statically in /home/andamio8/public_html/panel.andamiosexpressstore.mx/ajax/tablaVentas.ajax.php on line 19
+[20-Dec-2021 16:45:48 America/Mexico_City] PHP Deprecated:  Non-static method Ruta::ctrRuta() should not be called statically in /home/andamio8/public_html/panel.andamiosexpressstore.mx/ajax/tablaVentas.ajax.php on line 19
+[20-Dec-2021 16:58:19 America/Mexico_City] PHP Deprecated:  Non-static method Ruta::ctrRuta() should not be called statically in /home/andamio8/public_html/panel.andamiosexpressstore.mx/ajax/tablaVentas.ajax.php on line 19
+[20-Dec-2021 17:03:52 America/Mexico_City] PHP Deprecated:  Non-static method Ruta::ctrRuta() should not be called statically in /home/andamio8/public_html/panel.andamiosexpressstore.mx/ajax/tablaVentas.ajax.php on line 19
+[20-Dec-2021 17:04:25 America/Mexico_City] PHP Deprecated:  Non-static method Ruta::ctrRuta() should not be called statically in /home/andamio8/public_html/panel.andamiosexpressstore.mx/ajax/tablaVentas.ajax.php on line 19
+[20-Dec-2021 17:15:27 America/Mexico_City] PHP Deprecated:  Non-static method Ruta::ctrRuta() should not be called statically in /home/andamio8/public_html/panel.andamiosexpressstore.mx/ajax/tablaVentas.ajax.php on line 19
+[20-Dec-2021 17:15:27 America/Mexico_City] PHP Warning:  json_decode() expects parameter 1 to be string, array given in /home/andamio8/public_html/panel.andamiosexpressstore.mx/ajax/tablaVentas.ajax.php on line 32
+[20-Dec-2021 17:15:27 America/Mexico_City] PHP Warning:  json_decode() expects parameter 1 to be string, array given in /home/andamio8/public_html/panel.andamiosexpressstore.mx/ajax/tablaVentas.ajax.php on line 32
+[20-Dec-2021 17:15:27 America/Mexico_City] PHP Warning:  json_decode() expects parameter 1 to be string, array given in /home/andamio8/public_html/panel.andamiosexpressstore.mx/ajax/tablaVentas.ajax.php on line 32
+[20-Dec-2021 17:15:27 America/Mexico_City] PHP Warning:  json_decode() expects parameter 1 to be string, array given in /home/andamio8/public_html/panel.andamiosexpressstore.mx/ajax/tablaVentas.ajax.php on line 32
+[20-Dec-2021 17:15:27 America/Mexico_City] PHP Warning:  json_decode() expects parameter 1 to be string, array given in /home/andamio8/public_html/panel.andamiosexpressstore.mx/ajax/tablaVentas.ajax.php on line 32
+[20-Dec-2021 17:15:27 America/Mexico_City] PHP Warning:  json_decode() expects parameter 1 to be string, array given in /home/andamio8/public_html/panel.andamiosexpressstore.mx/ajax/tablaVentas.ajax.php on line 32
+[20-Dec-2021 17:15:27 America/Mexico_City] PHP Warning:  json_decode() expects parameter 1 to be string, array given in /home/andamio8/public_html/panel.andamiosexpressstore.mx/ajax/tablaVentas.ajax.php on line 32
+[20-Dec-2021 17:15:27 America/Mexico_City] PHP Warning:  json_decode() expects parameter 1 to be string, array given in /home/andamio8/public_html/panel.andamiosexpressstore.mx/ajax/tablaVentas.ajax.php on line 32
+[20-Dec-2021 17:15:27 America/Mexico_City] PHP Warning:  json_decode() expects parameter 1 to be string, array given in /home/andamio8/public_html/panel.andamiosexpressstore.mx/ajax/tablaVentas.ajax.php on line 32
+[20-Dec-2021 17:15:27 America/Mexico_City] PHP Warning:  json_decode() expects parameter 1 to be string, array given in /home/andamio8/public_html/panel.andamiosexpressstore.mx/ajax/tablaVentas.ajax.php on line 32
+[20-Dec-2021 17:15:27 America/Mexico_City] PHP Warning:  json_decode() expects parameter 1 to be string, array given in /home/andamio8/public_html/panel.andamiosexpressstore.mx/ajax/tablaVentas.ajax.php on line 32
+[20-Dec-2021 17:15:27 America/Mexico_City] PHP Warning:  json_decode() expects parameter 1 to be string, array given in /home/andamio8/public_html/panel.andamiosexpressstore.mx/ajax/tablaVentas.ajax.php on line 32
+[20-Dec-2021 17:15:27 America/Mexico_City] PHP Warning:  json_decode() expects parameter 1 to be string, array given in /home/andamio8/public_html/panel.andamiosexpressstore.mx/ajax/tablaVentas.ajax.php on line 32
+[20-Dec-2021 17:16:05 America/Mexico_City] PHP Deprecated:  Non-static method Ruta::ctrRuta() should not be called statically in /home/andamio8/public_html/panel.andamiosexpressstore.mx/ajax/tablaVentas.ajax.php on line 19
+[20-Dec-2021 17:16:05 America/Mexico_City] PHP Warning:  json_decode() expects parameter 1 to be string, array given in /home/andamio8/public_html/panel.andamiosexpressstore.mx/ajax/tablaVentas.ajax.php on line 32
+[20-Dec-2021 17:16:05 America/Mexico_City] PHP Warning:  json_decode() expects parameter 1 to be string, array given in /home/andamio8/public_html/panel.andamiosexpressstore.mx/ajax/tablaVentas.ajax.php on line 32
+[20-Dec-2021 17:16:05 America/Mexico_City] PHP Warning:  json_decode() expects parameter 1 to be string, array given in /home/andamio8/public_html/panel.andamiosexpressstore.mx/ajax/tablaVentas.ajax.php on line 32
+[20-Dec-2021 17:16:05 America/Mexico_City] PHP Warning:  json_decode() expects parameter 1 to be string, array given in /home/andamio8/public_html/panel.andamiosexpressstore.mx/ajax/tablaVentas.ajax.php on line 32
+[20-Dec-2021 17:16:05 America/Mexico_City] PHP Warning:  json_decode() expects parameter 1 to be string, array given in /home/andamio8/public_html/panel.andamiosexpressstore.mx/ajax/tablaVentas.ajax.php on line 32
+[20-Dec-2021 17:16:05 America/Mexico_City] PHP Warning:  json_decode() expects parameter 1 to be string, array given in /home/andamio8/public_html/panel.andamiosexpressstore.mx/ajax/tablaVentas.ajax.php on line 32
+[20-Dec-2021 17:16:05 America/Mexico_City] PHP Warning:  json_decode() expects parameter 1 to be string, array given in /home/andamio8/public_html/panel.andamiosexpressstore.mx/ajax/tablaVentas.ajax.php on line 32
+[20-Dec-2021 17:16:05 America/Mexico_City] PHP Warning:  json_decode() expects parameter 1 to be string, array given in /home/andamio8/public_html/panel.andamiosexpressstore.mx/ajax/tablaVentas.ajax.php on line 32
+[20-Dec-2021 17:16:05 America/Mexico_City] PHP Warning:  json_decode() expects parameter 1 to be string, array given in /home/andamio8/public_html/panel.andamiosexpressstore.mx/ajax/tablaVentas.ajax.php on line 32
+[20-Dec-2021 17:16:05 America/Mexico_City] PHP Warning:  json_decode() expects parameter 1 to be string, array given in /home/andamio8/public_html/panel.andamiosexpressstore.mx/ajax/tablaVentas.ajax.php on line 32
+[20-Dec-2021 17:16:05 America/Mexico_City] PHP Warning:  json_decode() expects parameter 1 to be string, array given in /home/andamio8/public_html/panel.andamiosexpressstore.mx/ajax/tablaVentas.ajax.php on line 32
+[20-Dec-2021 17:16:23 America/Mexico_City] PHP Deprecated:  Non-static method Ruta::ctrRuta() should not be called statically in /home/andamio8/public_html/panel.andamiosexpressstore.mx/ajax/tablaVentas.ajax.php on line 19
+[20-Dec-2021 17:17:43 America/Mexico_City] PHP Deprecated:  Non-static method Ruta::ctrRuta() should not be called statically in /home/andamio8/public_html/panel.andamiosexpressstore.mx/ajax/tablaVentas.ajax.php on line 19
+[20-Dec-2021 17:18:08 America/Mexico_City] PHP Deprecated:  Non-static method Ruta::ctrRuta() should not be called statically in /home/andamio8/public_html/panel.andamiosexpressstore.mx/ajax/tablaVentas.ajax.php on line 19
+[20-Dec-2021 17:18:08 America/Mexico_City] PHP Warning:  json_decode() expects parameter 1 to be string, array given in /home/andamio8/public_html/panel.andamiosexpressstore.mx/ajax/tablaVentas.ajax.php on line 32
+[20-Dec-2021 17:18:08 America/Mexico_City] PHP Warning:  json_decode() expects parameter 1 to be string, array given in /home/andamio8/public_html/panel.andamiosexpressstore.mx/ajax/tablaVentas.ajax.php on line 32
+[20-Dec-2021 17:18:08 America/Mexico_City] PHP Warning:  json_decode() expects parameter 1 to be string, array given in /home/andamio8/public_html/panel.andamiosexpressstore.mx/ajax/tablaVentas.ajax.php on line 32
+[20-Dec-2021 17:18:08 America/Mexico_City] PHP Warning:  json_decode() expects parameter 1 to be string, array given in /home/andamio8/public_html/panel.andamiosexpressstore.mx/ajax/tablaVentas.ajax.php on line 32
+[20-Dec-2021 17:18:08 America/Mexico_City] PHP Warning:  json_decode() expects parameter 1 to be string, array given in /home/andamio8/public_html/panel.andamiosexpressstore.mx/ajax/tablaVentas.ajax.php on line 32
+[20-Dec-2021 17:18:08 America/Mexico_City] PHP Warning:  json_decode() expects parameter 1 to be string, array given in /home/andamio8/public_html/panel.andamiosexpressstore.mx/ajax/tablaVentas.ajax.php on line 32
+[20-Dec-2021 17:18:08 America/Mexico_City] PHP Warning:  json_decode() expects parameter 1 to be string, array given in /home/andamio8/public_html/panel.andamiosexpressstore.mx/ajax/tablaVentas.ajax.php on line 32
+[20-Dec-2021 17:18:08 America/Mexico_City] PHP Warning:  json_decode() expects parameter 1 to be string, array given in /home/andamio8/public_html/panel.andamiosexpressstore.mx/ajax/tablaVentas.ajax.php on line 32
+[20-Dec-2021 17:18:08 America/Mexico_City] PHP Warning:  json_decode() expects parameter 1 to be string, array given in /home/andamio8/public_html/panel.andamiosexpressstore.mx/ajax/tablaVentas.ajax.php on line 32
+[20-Dec-2021 17:18:08 America/Mexico_City] PHP Warning:  json_decode() expects parameter 1 to be string, array given in /home/andamio8/public_html/panel.andamiosexpressstore.mx/ajax/tablaVentas.ajax.php on line 32
+[20-Dec-2021 17:18:08 America/Mexico_City] PHP Warning:  json_decode() expects parameter 1 to be string, array given in /home/andamio8/public_html/panel.andamiosexpressstore.mx/ajax/tablaVentas.ajax.php on line 32
+[20-Dec-2021 17:18:26 America/Mexico_City] PHP Deprecated:  Non-static method Ruta::ctrRuta() should not be called statically in /home/andamio8/public_html/panel.andamiosexpressstore.mx/ajax/tablaVentas.ajax.php on line 19
+[20-Dec-2021 17:19:26 America/Mexico_City] PHP Deprecated:  Non-static method Ruta::ctrRuta() should not be called statically in /home/andamio8/public_html/panel.andamiosexpressstore.mx/ajax/tablaVentas.ajax.php on line 19
+[20-Dec-2021 17:31:01 America/Mexico_City] PHP Deprecated:  Non-static method Ruta::ctrRuta() should not be called statically in /home/andamio8/public_html/panel.andamiosexpressstore.mx/ajax/tablaVentas.ajax.php on line 19
+[20-Dec-2021 17:33:28 America/Mexico_City] PHP Deprecated:  Non-static method Ruta::ctrRuta() should not be called statically in /home/andamio8/public_html/panel.andamiosexpressstore.mx/ajax/tablaVentas.ajax.php on line 19
+[20-Dec-2021 17:38:20 America/Mexico_City] PHP Deprecated:  Non-static method Ruta::ctrRuta() should not be called statically in /home/andamio8/public_html/panel.andamiosexpressstore.mx/ajax/tablaVentas.ajax.php on line 19
+[20-Dec-2021 17:40:22 America/Mexico_City] PHP Deprecated:  Non-static method Ruta::ctrRuta() should not be called statically in /home/andamio8/public_html/panel.andamiosexpressstore.mx/ajax/tablaVentas.ajax.php on line 19
+[21-Dec-2021 09:35:48 America/Mexico_City] PHP Deprecated:  Non-static method Ruta::ctrRuta() should not be called statically in /home/andamio8/public_html/panel.andamiosexpressstore.mx/ajax/tablaVentas.ajax.php on line 19
+[21-Dec-2021 09:36:37 America/Mexico_City] PHP Deprecated:  Non-static method Ruta::ctrRuta() should not be called statically in /home/andamio8/public_html/panel.andamiosexpressstore.mx/ajax/tablaVentas.ajax.php on line 19
+[21-Dec-2021 09:37:50 America/Mexico_City] PHP Deprecated:  Non-static method Ruta::ctrRuta() should not be called statically in /home/andamio8/public_html/panel.andamiosexpressstore.mx/ajax/tablaVentas.ajax.php on line 19
+[21-Dec-2021 09:44:08 America/Mexico_City] PHP Deprecated:  Non-static method Ruta::ctrRuta() should not be called statically in /home/andamio8/public_html/panel.andamiosexpressstore.mx/ajax/tablaVentas.ajax.php on line 19
+[21-Dec-2021 09:46:58 America/Mexico_City] PHP Deprecated:  Non-static method Ruta::ctrRuta() should not be called statically in /home/andamio8/public_html/panel.andamiosexpressstore.mx/ajax/tablaVentas.ajax.php on line 19
+[21-Dec-2021 09:47:53 America/Mexico_City] PHP Deprecated:  Non-static method Ruta::ctrRuta() should not be called statically in /home/andamio8/public_html/panel.andamiosexpressstore.mx/ajax/tablaVentas.ajax.php on line 19
+[21-Dec-2021 10:46:48 America/Mexico_City] PHP Deprecated:  Non-static method Ruta::ctrRuta() should not be called statically in /home/andamio8/public_html/panel.andamiosexpressstore.mx/ajax/tablaVentas.ajax.php on line 19
+[21-Dec-2021 10:50:14 America/Mexico_City] PHP Deprecated:  Non-static method Ruta::ctrRuta() should not be called statically in /home/andamio8/public_html/panel.andamiosexpressstore.mx/ajax/tablaVentas.ajax.php on line 19
+[21-Dec-2021 10:51:08 America/Mexico_City] PHP Deprecated:  Non-static method Ruta::ctrRuta() should not be called statically in /home/andamio8/public_html/panel.andamiosexpressstore.mx/ajax/tablaVentas.ajax.php on line 19
+[21-Dec-2021 10:52:51 America/Mexico_City] PHP Deprecated:  Non-static method Ruta::ctrRuta() should not be called statically in /home/andamio8/public_html/panel.andamiosexpressstore.mx/ajax/tablaVentas.ajax.php on line 19
+[21-Dec-2021 10:53:48 America/Mexico_City] PHP Deprecated:  Non-static method Ruta::ctrRuta() should not be called statically in /home/andamio8/public_html/panel.andamiosexpressstore.mx/ajax/tablaVentas.ajax.php on line 19
+[21-Dec-2021 11:48:50 America/Mexico_City] PHP Deprecated:  Non-static method Ruta::ctrRuta() should not be called statically in /home/andamio8/public_html/panel.andamiosexpressstore.mx/ajax/tablaVentas.ajax.php on line 19
+[21-Dec-2021 11:49:10 America/Mexico_City] PHP Deprecated:  Non-static method Ruta::ctrRuta() should not be called statically in /home/andamio8/public_html/panel.andamiosexpressstore.mx/ajax/tablaVentas.ajax.php on line 19
+[21-Dec-2021 11:49:18 America/Mexico_City] PHP Deprecated:  Non-static method Ruta::ctrRuta() should not be called statically in /home/andamio8/public_html/panel.andamiosexpressstore.mx/ajax/tablaVentas.ajax.php on line 19
+[21-Dec-2021 11:55:30 America/Mexico_City] PHP Deprecated:  Non-static method Ruta::ctrRuta() should not be called statically in /home/andamio8/public_html/panel.andamiosexpressstore.mx/ajax/tablaVentas.ajax.php on line 19
+[21-Dec-2021 11:56:17 America/Mexico_City] PHP Deprecated:  Non-static method Ruta::ctrRuta() should not be called statically in /home/andamio8/public_html/panel.andamiosexpressstore.mx/ajax/tablaVentas.ajax.php on line 19
+[21-Dec-2021 11:56:52 America/Mexico_City] PHP Deprecated:  Non-static method Ruta::ctrRuta() should not be called statically in /home/andamio8/public_html/panel.andamiosexpressstore.mx/ajax/tablaVentas.ajax.php on line 19
+[21-Dec-2021 12:00:00 America/Mexico_City] PHP Deprecated:  Non-static method Ruta::ctrRuta() should not be called statically in /home/andamio8/public_html/panel.andamiosexpressstore.mx/ajax/tablaVentas.ajax.php on line 19
+[21-Dec-2021 12:00:07 America/Mexico_City] PHP Deprecated:  Non-static method Ruta::ctrRuta() should not be called statically in /home/andamio8/public_html/panel.andamiosexpressstore.mx/ajax/tablaVentas.ajax.php on line 19
+[21-Dec-2021 12:10:31 America/Mexico_City] PHP Deprecated:  Non-static method Ruta::ctrRuta() should not be called statically in /home/andamio8/public_html/panel.andamiosexpressstore.mx/ajax/tablaVentas.ajax.php on line 19
+[21-Dec-2021 12:10:59 America/Mexico_City] PHP Deprecated:  Non-static method Ruta::ctrRuta() should not be called statically in /home/andamio8/public_html/panel.andamiosexpressstore.mx/ajax/tablaVentas.ajax.php on line 19
+[21-Dec-2021 12:11:32 America/Mexico_City] PHP Deprecated:  Non-static method Ruta::ctrRuta() should not be called statically in /home/andamio8/public_html/panel.andamiosexpressstore.mx/ajax/tablaVentas.ajax.php on line 19
+[21-Dec-2021 12:23:56 America/Mexico_City] PHP Deprecated:  Non-static method Ruta::ctrRuta() should not be called statically in /home/andamio8/public_html/panel.andamiosexpressstore.mx/ajax/tablaVentas.ajax.php on line 19
+[21-Dec-2021 12:27:13 America/Mexico_City] PHP Deprecated:  Non-static method Ruta::ctrRuta() should not be called statically in /home/andamio8/public_html/panel.andamiosexpressstore.mx/ajax/tablaVentas.ajax.php on line 19
+[21-Dec-2021 12:27:20 America/Mexico_City] PHP Deprecated:  Non-static method Ruta::ctrRuta() should not be called statically in /home/andamio8/public_html/panel.andamiosexpressstore.mx/ajax/tablaVentas.ajax.php on line 19
+[21-Dec-2021 12:37:30 America/Mexico_City] PHP Deprecated:  Non-static method Ruta::ctrRuta() should not be called statically in /home/andamio8/public_html/panel.andamiosexpressstore.mx/ajax/tablaVentas.ajax.php on line 19
+[21-Dec-2021 12:38:25 America/Mexico_City] PHP Deprecated:  Non-static method Ruta::ctrRuta() should not be called statically in /home/andamio8/public_html/panel.andamiosexpressstore.mx/ajax/tablaVentas.ajax.php on line 19
+[21-Dec-2021 12:38:56 America/Mexico_City] PHP Deprecated:  Non-static method Ruta::ctrRuta() should not be called statically in /home/andamio8/public_html/panel.andamiosexpressstore.mx/ajax/tablaVentas.ajax.php on line 19
+[21-Dec-2021 12:41:34 America/Mexico_City] PHP Deprecated:  Non-static method Ruta::ctrRuta() should not be called statically in /home/andamio8/public_html/panel.andamiosexpressstore.mx/ajax/tablaVentas.ajax.php on line 19
+[21-Dec-2021 12:43:05 America/Mexico_City] PHP Deprecated:  Non-static method Ruta::ctrRuta() should not be called statically in /home/andamio8/public_html/panel.andamiosexpressstore.mx/ajax/tablaVentas.ajax.php on line 19
+[21-Dec-2021 12:43:14 America/Mexico_City] PHP Deprecated:  Non-static method Ruta::ctrRuta() should not be called statically in /home/andamio8/public_html/panel.andamiosexpressstore.mx/ajax/tablaVentas.ajax.php on line 19
+[21-Dec-2021 12:46:50 America/Mexico_City] PHP Deprecated:  Non-static method Ruta::ctrRuta() should not be called statically in /home/andamio8/public_html/panel.andamiosexpressstore.mx/ajax/tablaVentas.ajax.php on line 19
+[21-Dec-2021 12:47:27 America/Mexico_City] PHP Deprecated:  Non-static method Ruta::ctrRuta() should not be called statically in /home/andamio8/public_html/panel.andamiosexpressstore.mx/ajax/tablaVentas.ajax.php on line 19
+[21-Dec-2021 15:15:34 America/Mexico_City] PHP Deprecated:  Non-static method Ruta::ctrRuta() should not be called statically in /home/andamio8/public_html/panel.andamiosexpressstore.mx/ajax/tablaVentas.ajax.php on line 19
+[21-Dec-2021 15:19:15 America/Mexico_City] PHP Deprecated:  Non-static method Ruta::ctrRuta() should not be called statically in /home/andamio8/public_html/panel.andamiosexpressstore.mx/ajax/tablaVentas.ajax.php on line 19
+[21-Dec-2021 15:23:29 America/Mexico_City] PHP Deprecated:  Non-static method Ruta::ctrRuta() should not be called statically in /home/andamio8/public_html/panel.andamiosexpressstore.mx/ajax/tablaVentas.ajax.php on line 19
+[21-Dec-2021 15:32:51 America/Mexico_City] PHP Deprecated:  Non-static method Ruta::ctrRuta() should not be called statically in /home/andamio8/public_html/panel.andamiosexpressstore.mx/ajax/tablaVentas.ajax.php on line 19
+[21-Dec-2021 16:00:51 America/Mexico_City] PHP Deprecated:  Non-static method Ruta::ctrRuta() should not be called statically in /home/andamio8/public_html/panel.andamiosexpressstore.mx/ajax/tablaVentas.ajax.php on line 19
+[21-Dec-2021 16:05:53 America/Mexico_City] PHP Deprecated:  Non-static method Ruta::ctrRuta() should not be called statically in /home/andamio8/public_html/panel.andamiosexpressstore.mx/ajax/tablaVentas.ajax.php on line 19
+[21-Dec-2021 16:07:52 America/Mexico_City] PHP Deprecated:  Non-static method Ruta::ctrRuta() should not be called statically in /home/andamio8/public_html/panel.andamiosexpressstore.mx/ajax/tablaVentas.ajax.php on line 19
+[22-Dec-2021 12:24:23 America/Mexico_City] PHP Deprecated:  Non-static method Ruta::ctrRuta() should not be called statically in /home/andamio8/public_html/panel.andamiosexpressstore.mx/ajax/tablaVentas.ajax.php on line 19
+[22-Dec-2021 12:43:04 America/Mexico_City] PHP Deprecated:  Non-static method Ruta::ctrRuta() should not be called statically in /home/andamio8/public_html/panel.andamiosexpressstore.mx/ajax/tablaVentas.ajax.php on line 19
+[23-Dec-2021 17:08:54 America/Mexico_City] PHP Deprecated:  Non-static method Ruta::ctrRuta() should not be called statically in /home/andamio8/public_html/panel.andamiosexpressstore.mx/ajax/tablaVentas.ajax.php on line 19
+[28-Dec-2021 13:28:25 America/Mexico_City] PHP Deprecated:  Non-static method Ruta::ctrRuta() should not be called statically in /home/andamio8/public_html/panel.andamiosexpressstore.mx/ajax/tablaVentas.ajax.php on line 19
+[11-Jan-2022 13:45:34 America/Mexico_City] PHP Deprecated:  Non-static method Ruta::ctrRuta() should not be called statically in /home/andamio8/public_html/panel.andamiosexpressstore.mx/ajax/tablaVentas.ajax.php on line 19
+[19-Jan-2022 12:51:27 America/Mexico_City] PHP Deprecated:  Non-static method Ruta::ctrRuta() should not be called statically in /home/andamio8/public_html/panel.andamiosexpressstore.mx/ajax/tablaVentas.ajax.php on line 19
+[19-Jan-2022 17:04:26 America/Mexico_City] PHP Deprecated:  Non-static method Ruta::ctrRuta() should not be called statically in /home/andamio8/public_html/panel.andamiosexpressstore.mx/ajax/tablaVentas.ajax.php on line 19
+[19-Jan-2022 17:07:09 America/Mexico_City] PHP Deprecated:  Non-static method Ruta::ctrRuta() should not be called statically in /home/andamio8/public_html/panel.andamiosexpressstore.mx/ajax/tablaVentas.ajax.php on line 19
+[20-Jan-2022 11:08:52 America/Mexico_City] PHP Warning:  unlink(../vistas/img/productos/plataforma-metalica.jpg): No such file or directory in /home/andamio8/public_html/panel.andamiosexpressstore.mx/controladores/productos.controlador.php on line 416
+[20-Jan-2022 11:08:54 America/Mexico_City] PHP Warning:  unlink(../vistas/img/productos/plataforma-metalica.jpg): No such file or directory in /home/andamio8/public_html/panel.andamiosexpressstore.mx/controladores/productos.controlador.php on line 416
+[20-Jan-2022 11:13:17 America/Mexico_City] PHP Deprecated:  Non-static method Ruta::ctrRuta() should not be called statically in /home/andamio8/public_html/panel.andamiosexpressstore.mx/ajax/tablaVentas.ajax.php on line 19
+[20-Jan-2022 11:18:41 America/Mexico_City] PHP Deprecated:  Non-static method Ruta::ctrRuta() should not be called statically in /home/andamio8/public_html/panel.andamiosexpressstore.mx/ajax/tablaVentas.ajax.php on line 19
+[20-Jan-2022 11:19:31 America/Mexico_City] PHP Deprecated:  Non-static method Ruta::ctrRuta() should not be called statically in /home/andamio8/public_html/panel.andamiosexpressstore.mx/ajax/tablaVentas.ajax.php on line 19
+[20-Jan-2022 17:38:57 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'Ruta' not found in /home/andamio8/public_html/panel.andamiosexpressstore.mx/ajax/tablaUsuarios.ajax.php:35
+Stack trace:
+#0 /home/andamio8/public_html/panel.andamiosexpressstore.mx/ajax/tablaUsuarios.ajax.php(199): TablaUsuarios->mostrarTabla()
+#1 {main}
+  thrown in /home/andamio8/public_html/panel.andamiosexpressstore.mx/ajax/tablaUsuarios.ajax.php on line 35
+[20-Jan-2022 17:41:11 America/Mexico_City] PHP Deprecated:  Non-static method Ruta::ctrRuta() should not be called statically in /home/andamio8/public_html/panel.andamiosexpressstore.mx/ajax/tablaUsuarios.ajax.php on line 37
+[20-Jan-2022 17:46:13 America/Mexico_City] PHP Deprecated:  Non-static method Ruta::ctrRuta() should not be called statically in /home/andamio8/public_html/panel.andamiosexpressstore.mx/ajax/tablaUsuarios.ajax.php on line 37
+[20-Jan-2022 17:47:42 America/Mexico_City] PHP Deprecated:  Non-static method Ruta::ctrRuta() should not be called statically in /home/andamio8/public_html/panel.andamiosexpressstore.mx/ajax/tablaUsuarios.ajax.php on line 37
+[20-Jan-2022 17:49:49 America/Mexico_City] PHP Deprecated:  Non-static method Ruta::ctrRuta() should not be called statically in /home/andamio8/public_html/panel.andamiosexpressstore.mx/ajax/tablaUsuarios.ajax.php on line 37
+[20-Jan-2022 17:50:24 America/Mexico_City] PHP Deprecated:  Non-static method Ruta::ctrRuta() should not be called statically in /home/andamio8/public_html/panel.andamiosexpressstore.mx/ajax/tablaUsuarios.ajax.php on line 37
+[20-Jan-2022 17:51:31 America/Mexico_City] PHP Deprecated:  Non-static method Ruta::ctrRuta() should not be called statically in /home/andamio8/public_html/panel.andamiosexpressstore.mx/ajax/tablaUsuarios.ajax.php on line 37
+[20-Jan-2022 17:52:28 America/Mexico_City] PHP Deprecated:  Non-static method Ruta::ctrRuta() should not be called statically in /home/andamio8/public_html/panel.andamiosexpressstore.mx/ajax/tablaUsuarios.ajax.php on line 37
+[20-Jan-2022 17:53:37 America/Mexico_City] PHP Deprecated:  Non-static method Ruta::ctrRuta() should not be called statically in /home/andamio8/public_html/panel.andamiosexpressstore.mx/ajax/tablaUsuarios.ajax.php on line 37
+[20-Jan-2022 17:54:28 America/Mexico_City] PHP Deprecated:  Non-static method Ruta::ctrRuta() should not be called statically in /home/andamio8/public_html/panel.andamiosexpressstore.mx/ajax/tablaUsuarios.ajax.php on line 37
+[20-Jan-2022 19:14:23 America/Mexico_City] PHP Deprecated:  Non-static method Ruta::ctrRuta() should not be called statically in /home/andamio8/public_html/panel.andamiosexpressstore.mx/ajax/tablaUsuarios.ajax.php on line 37
+[20-Jan-2022 19:14:41 America/Mexico_City] PHP Deprecated:  Non-static method Ruta::ctrRuta() should not be called statically in /home/andamio8/public_html/panel.andamiosexpressstore.mx/ajax/tablaVentas.ajax.php on line 19
+[25-Jan-2022 21:14:22 America/Mexico_City] PHP Deprecated:  Non-static method Ruta::ctrRuta() should not be called statically in /home/andamio8/public_html/panel.andamiosexpressstore.mx/ajax/tablaVentas.ajax.php on line 19
+[25-Jan-2022 21:17:13 America/Mexico_City] PHP Deprecated:  Non-static method Ruta::ctrRuta() should not be called statically in /home/andamio8/public_html/panel.andamiosexpressstore.mx/ajax/tablaVentas.ajax.php on line 19
+[25-Jan-2022 21:17:26 America/Mexico_City] PHP Deprecated:  Non-static method Ruta::ctrRuta() should not be called statically in /home/andamio8/public_html/panel.andamiosexpressstore.mx/ajax/tablaUsuarios.ajax.php on line 37
+[26-Jan-2022 10:09:51 America/Mexico_City] PHP Deprecated:  Non-static method Ruta::ctrRuta() should not be called statically in /home/andamio8/public_html/panel.andamiosexpressstore.mx/ajax/tablaVentas.ajax.php on line 19
+[26-Jan-2022 10:11:13 America/Mexico_City] PHP Deprecated:  Non-static method Ruta::ctrRuta() should not be called statically in /home/andamio8/public_html/panel.andamiosexpressstore.mx/ajax/tablaVentas.ajax.php on line 19
+[26-Jan-2022 10:12:30 America/Mexico_City] PHP Deprecated:  Non-static method Ruta::ctrRuta() should not be called statically in /home/andamio8/public_html/panel.andamiosexpressstore.mx/ajax/tablaVentas.ajax.php on line 19
+[26-Jan-2022 10:12:51 America/Mexico_City] PHP Deprecated:  Non-static method Ruta::ctrRuta() should not be called statically in /home/andamio8/public_html/panel.andamiosexpressstore.mx/ajax/tablaUsuarios.ajax.php on line 37
+[26-Jan-2022 11:30:23 America/Mexico_City] PHP Deprecated:  Non-static method Ruta::ctrRuta() should not be called statically in /home/andamio8/public_html/panel.andamiosexpressstore.mx/ajax/tablaVentas.ajax.php on line 19
+[26-Jan-2022 11:34:53 America/Mexico_City] PHP Deprecated:  Non-static method Ruta::ctrRuta() should not be called statically in /home/andamio8/public_html/panel.andamiosexpressstore.mx/ajax/tablaVentas.ajax.php on line 19
+[26-Jan-2022 11:35:21 America/Mexico_City] PHP Deprecated:  Non-static method Ruta::ctrRuta() should not be called statically in /home/andamio8/public_html/panel.andamiosexpressstore.mx/ajax/tablaUsuarios.ajax.php on line 37
+[26-Jan-2022 11:38:54 America/Mexico_City] PHP Deprecated:  Non-static method Ruta::ctrRuta() should not be called statically in /home/andamio8/public_html/panel.andamiosexpressstore.mx/ajax/tablaVentas.ajax.php on line 19
+[26-Jan-2022 11:40:09 America/Mexico_City] PHP Deprecated:  Non-static method Ruta::ctrRuta() should not be called statically in /home/andamio8/public_html/panel.andamiosexpressstore.mx/ajax/tablaUsuarios.ajax.php on line 37
+[26-Jan-2022 13:18:54 America/Mexico_City] PHP Deprecated:  Non-static method Ruta::ctrRuta() should not be called statically in /home/andamio8/public_html/panel.andamiosexpressstore.mx/ajax/tablaVentas.ajax.php on line 19
+[26-Jan-2022 13:51:00 America/Mexico_City] PHP Deprecated:  Non-static method Ruta::ctrRuta() should not be called statically in /home/andamio8/public_html/panel.andamiosexpressstore.mx/ajax/tablaUsuarios.ajax.php on line 37
+[26-Jan-2022 13:52:18 America/Mexico_City] PHP Deprecated:  Non-static method Ruta::ctrRuta() should not be called statically in /home/andamio8/public_html/panel.andamiosexpressstore.mx/ajax/tablaUsuarios.ajax.php on line 37
+[26-Jan-2022 13:52:54 America/Mexico_City] PHP Deprecated:  Non-static method Ruta::ctrRuta() should not be called statically in /home/andamio8/public_html/panel.andamiosexpressstore.mx/ajax/tablaUsuarios.ajax.php on line 37
+[26-Jan-2022 14:02:39 America/Mexico_City] PHP Deprecated:  Non-static method Ruta::ctrRuta() should not be called statically in /home/andamio8/public_html/panel.andamiosexpressstore.mx/ajax/tablaUsuarios.ajax.php on line 37
+[26-Jan-2022 14:03:52 America/Mexico_City] PHP Deprecated:  Non-static method Ruta::ctrRuta() should not be called statically in /home/andamio8/public_html/panel.andamiosexpressstore.mx/ajax/tablaUsuarios.ajax.php on line 37
+[26-Jan-2022 14:07:48 America/Mexico_City] PHP Deprecated:  Non-static method Ruta::ctrRuta() should not be called statically in /home/andamio8/public_html/panel.andamiosexpressstore.mx/ajax/tablaUsuarios.ajax.php on line 37
+[26-Jan-2022 14:12:50 America/Mexico_City] PHP Deprecated:  Non-static method Ruta::ctrRuta() should not be called statically in /home/andamio8/public_html/panel.andamiosexpressstore.mx/ajax/tablaUsuarios.ajax.php on line 37
+[26-Jan-2022 14:14:20 America/Mexico_City] PHP Deprecated:  Non-static method Ruta::ctrRuta() should not be called statically in /home/andamio8/public_html/panel.andamiosexpressstore.mx/ajax/tablaUsuarios.ajax.php on line 37
+[26-Jan-2022 14:15:30 America/Mexico_City] PHP Deprecated:  Non-static method Ruta::ctrRuta() should not be called statically in /home/andamio8/public_html/panel.andamiosexpressstore.mx/ajax/tablaUsuarios.ajax.php on line 37
+[26-Jan-2022 15:00:24 America/Mexico_City] PHP Deprecated:  Non-static method Ruta::ctrRuta() should not be called statically in /home/andamio8/public_html/panel.andamiosexpressstore.mx/ajax/tablaUsuarios.ajax.php on line 37
+[26-Jan-2022 15:02:39 America/Mexico_City] PHP Deprecated:  Non-static method Ruta::ctrRuta() should not be called statically in /home/andamio8/public_html/panel.andamiosexpressstore.mx/ajax/tablaUsuarios.ajax.php on line 37
+[26-Jan-2022 15:03:41 America/Mexico_City] PHP Deprecated:  Non-static method Ruta::ctrRuta() should not be called statically in /home/andamio8/public_html/panel.andamiosexpressstore.mx/ajax/tablaUsuarios.ajax.php on line 37
+[26-Jan-2022 15:03:55 America/Mexico_City] PHP Deprecated:  Non-static method Ruta::ctrRuta() should not be called statically in /home/andamio8/public_html/panel.andamiosexpressstore.mx/ajax/tablaVentas.ajax.php on line 19
+[27-Jan-2022 10:10:06 America/Mexico_City] PHP Deprecated:  Non-static method Ruta::ctrRuta() should not be called statically in /home/andamio8/public_html/panel.andamiosexpressstore.mx/ajax/tablaUsuarios.ajax.php on line 37
+[28-Jan-2022 17:25:40 America/Mexico_City] PHP Deprecated:  Non-static method Ruta::ctrRuta() should not be called statically in /home/andamio8/public_html/panel.andamiosexpressstore.mx/ajax/tablaUsuarios.ajax.php on line 37
+[31-Jan-2022 15:44:39 America/Mexico_City] PHP Deprecated:  Non-static method Ruta::ctrRuta() should not be called statically in /home/andamio8/public_html/panel.andamiosexpressstore.mx/ajax/tablaVentas.ajax.php on line 19
+[31-Jan-2022 15:47:48 America/Mexico_City] PHP Deprecated:  Non-static method Ruta::ctrRuta() should not be called statically in /home/andamio8/public_html/panel.andamiosexpressstore.mx/ajax/tablaVentas.ajax.php on line 37
+[31-Jan-2022 15:52:36 America/Mexico_City] PHP Deprecated:  Non-static method Ruta::ctrRuta() should not be called statically in /home/andamio8/public_html/panel.andamiosexpressstore.mx/ajax/tablaVentas.ajax.php on line 37
+[31-Jan-2022 15:56:45 America/Mexico_City] PHP Deprecated:  Non-static method Ruta::ctrRuta() should not be called statically in /home/andamio8/public_html/panel.andamiosexpressstore.mx/ajax/tablaVentas.ajax.php on line 37
+[31-Jan-2022 15:58:22 America/Mexico_City] PHP Deprecated:  Non-static method Ruta::ctrRuta() should not be called statically in /home/andamio8/public_html/panel.andamiosexpressstore.mx/ajax/tablaVentas.ajax.php on line 37
+[31-Jan-2022 15:59:25 America/Mexico_City] PHP Deprecated:  Non-static method Ruta::ctrRuta() should not be called statically in /home/andamio8/public_html/panel.andamiosexpressstore.mx/ajax/tablaVentas.ajax.php on line 37
+[31-Jan-2022 16:00:01 America/Mexico_City] PHP Deprecated:  Non-static method Ruta::ctrRuta() should not be called statically in /home/andamio8/public_html/panel.andamiosexpressstore.mx/ajax/tablaVentas.ajax.php on line 37
+[31-Jan-2022 16:01:35 America/Mexico_City] PHP Deprecated:  Non-static method Ruta::ctrRuta() should not be called statically in /home/andamio8/public_html/panel.andamiosexpressstore.mx/ajax/tablaVentas.ajax.php on line 37
+[31-Jan-2022 16:01:57 America/Mexico_City] PHP Deprecated:  Non-static method Ruta::ctrRuta() should not be called statically in /home/andamio8/public_html/panel.andamiosexpressstore.mx/ajax/tablaVentas.ajax.php on line 37
+[31-Jan-2022 16:02:34 America/Mexico_City] PHP Deprecated:  Non-static method Ruta::ctrRuta() should not be called statically in /home/andamio8/public_html/panel.andamiosexpressstore.mx/ajax/tablaVentas.ajax.php on line 37
+[31-Jan-2022 16:02:59 America/Mexico_City] PHP Deprecated:  Non-static method Ruta::ctrRuta() should not be called statically in /home/andamio8/public_html/panel.andamiosexpressstore.mx/ajax/tablaVentas.ajax.php on line 37
+[31-Jan-2022 16:11:31 America/Mexico_City] PHP Deprecated:  Non-static method Ruta::ctrRuta() should not be called statically in /home/andamio8/public_html/panel.andamiosexpressstore.mx/ajax/tablaVentas.ajax.php on line 37
+[31-Jan-2022 16:15:44 America/Mexico_City] PHP Deprecated:  Non-static method Ruta::ctrRuta() should not be called statically in /home/andamio8/public_html/panel.andamiosexpressstore.mx/ajax/tablaVentas.ajax.php on line 37
+[31-Jan-2022 16:17:56 America/Mexico_City] PHP Deprecated:  Non-static method Ruta::ctrRuta() should not be called statically in /home/andamio8/public_html/panel.andamiosexpressstore.mx/ajax/tablaVentas.ajax.php on line 37
+[31-Jan-2022 16:19:07 America/Mexico_City] PHP Deprecated:  Non-static method Ruta::ctrRuta() should not be called statically in /home/andamio8/public_html/panel.andamiosexpressstore.mx/ajax/tablaVentas.ajax.php on line 37
+[31-Jan-2022 16:19:37 America/Mexico_City] PHP Deprecated:  Non-static method Ruta::ctrRuta() should not be called statically in /home/andamio8/public_html/panel.andamiosexpressstore.mx/ajax/tablaVentas.ajax.php on line 37
+[31-Jan-2022 16:22:34 America/Mexico_City] PHP Deprecated:  Non-static method Ruta::ctrRuta() should not be called statically in /home/andamio8/public_html/panel.andamiosexpressstore.mx/ajax/tablaVentas.ajax.php on line 37
+[31-Jan-2022 16:23:19 America/Mexico_City] PHP Deprecated:  Non-static method Ruta::ctrRuta() should not be called statically in /home/andamio8/public_html/panel.andamiosexpressstore.mx/ajax/tablaVentas.ajax.php on line 37
+[01-Feb-2022 16:39:56 America/Mexico_City] PHP Deprecated:  Non-static method Ruta::ctrRuta() should not be called statically in /home/andamio8/public_html/panel.andamiosexpressstore.mx/ajax/tablaUsuarios.ajax.php on line 37
+[01-Feb-2022 16:40:10 America/Mexico_City] PHP Deprecated:  Non-static method Ruta::ctrRuta() should not be called statically in /home/andamio8/public_html/panel.andamiosexpressstore.mx/ajax/tablaUsuarios.ajax.php on line 37
+[01-Feb-2022 16:49:23 America/Mexico_City] PHP Deprecated:  Non-static method Ruta::ctrRuta() should not be called statically in /home/andamio8/public_html/panel.andamiosexpressstore.mx/ajax/tablaUsuarios.ajax.php on line 37
+[01-Feb-2022 17:01:48 America/Mexico_City] PHP Deprecated:  Non-static method Ruta::ctrRuta() should not be called statically in /home/andamio8/public_html/panel.andamiosexpressstore.mx/ajax/tablaUsuarios.ajax.php on line 37
+[01-Feb-2022 17:03:15 America/Mexico_City] PHP Deprecated:  Non-static method Ruta::ctrRuta() should not be called statically in /home/andamio8/public_html/panel.andamiosexpressstore.mx/ajax/tablaUsuarios.ajax.php on line 37
+[01-Feb-2022 17:03:57 America/Mexico_City] PHP Deprecated:  Non-static method Ruta::ctrRuta() should not be called statically in /home/andamio8/public_html/panel.andamiosexpressstore.mx/ajax/tablaUsuarios.ajax.php on line 37
+[01-Feb-2022 17:05:03 America/Mexico_City] PHP Deprecated:  Non-static method Ruta::ctrRuta() should not be called statically in /home/andamio8/public_html/panel.andamiosexpressstore.mx/ajax/tablaUsuarios.ajax.php on line 37
+[01-Feb-2022 17:06:40 America/Mexico_City] PHP Deprecated:  Non-static method Ruta::ctrRuta() should not be called statically in /home/andamio8/public_html/panel.andamiosexpressstore.mx/ajax/tablaUsuarios.ajax.php on line 37
+[03-Feb-2022 10:57:47 America/Mexico_City] PHP Deprecated:  Non-static method Ruta::ctrRuta() should not be called statically in /home/andamio8/public_html/panel.andamiosexpressstore.mx/ajax/tablaVentas.ajax.php on line 37
+[03-Feb-2022 10:58:19 America/Mexico_City] PHP Deprecated:  Non-static method Ruta::ctrRuta() should not be called statically in /home/andamio8/public_html/panel.andamiosexpressstore.mx/ajax/tablaUsuarios.ajax.php on line 37
+[03-Feb-2022 11:00:24 America/Mexico_City] PHP Deprecated:  Non-static method Ruta::ctrRuta() should not be called statically in /home/andamio8/public_html/panel.andamiosexpressstore.mx/ajax/tablaVentas.ajax.php on line 37
+[03-Feb-2022 11:03:24 America/Mexico_City] PHP Deprecated:  Non-static method Ruta::ctrRuta() should not be called statically in /home/andamio8/public_html/panel.andamiosexpressstore.mx/ajax/tablaVentas.ajax.php on line 37
+[03-Feb-2022 11:06:12 America/Mexico_City] PHP Deprecated:  Non-static method Ruta::ctrRuta() should not be called statically in /home/andamio8/public_html/panel.andamiosexpressstore.mx/ajax/tablaVentas.ajax.php on line 37
+[03-Feb-2022 11:07:37 America/Mexico_City] PHP Deprecated:  Non-static method Ruta::ctrRuta() should not be called statically in /home/andamio8/public_html/panel.andamiosexpressstore.mx/ajax/tablaVentas.ajax.php on line 37
+[03-Feb-2022 11:18:20 America/Mexico_City] PHP Deprecated:  Non-static method Ruta::ctrRuta() should not be called statically in /home/andamio8/public_html/panel.andamiosexpressstore.mx/ajax/tablaUsuarios.ajax.php on line 37
+[03-Feb-2022 11:18:29 America/Mexico_City] PHP Deprecated:  Non-static method Ruta::ctrRuta() should not be called statically in /home/andamio8/public_html/panel.andamiosexpressstore.mx/ajax/tablaVentas.ajax.php on line 37
+[03-Feb-2022 11:26:09 America/Mexico_City] PHP Deprecated:  Non-static method Ruta::ctrRuta() should not be called statically in /home/andamio8/public_html/panel.andamiosexpressstore.mx/ajax/tablaUsuarios.ajax.php on line 37
+[03-Feb-2022 11:29:21 America/Mexico_City] PHP Deprecated:  Non-static method Ruta::ctrRuta() should not be called statically in /home/andamio8/public_html/panel.andamiosexpressstore.mx/ajax/tablaUsuarios.ajax.php on line 37
+[03-Feb-2022 11:33:07 America/Mexico_City] PHP Deprecated:  Non-static method Ruta::ctrRuta() should not be called statically in /home/andamio8/public_html/panel.andamiosexpressstore.mx/ajax/tablaUsuarios.ajax.php on line 37
+[03-Mar-2022 13:27:31 America/Mexico_City] PHP Deprecated:  Non-static method Ruta::ctrRuta() should not be called statically in /home/andamio8/public_html/panel.andamiosexpressstore.mx/ajax/tablaVentas.ajax.php on line 37
+[07-Apr-2022 09:15:53 America/Mexico_City] PHP Notice:  Undefined index: antiguaFotoPortada in /home/andamio8/public_html/panel.andamiosexpressstore.mx/ajax/productos.ajax.php on line 318
+[07-Apr-2022 09:15:53 America/Mexico_City] PHP Notice:  Undefined index: idCabecera in /home/andamio8/public_html/panel.andamiosexpressstore.mx/ajax/productos.ajax.php on line 321
+[07-Apr-2022 09:15:53 America/Mexico_City] PHP Notice:  Undefined index: peso in /home/andamio8/public_html/panel.andamiosexpressstore.mx/controladores/productos.controlador.php on line 596
+[07-Apr-2022 09:16:09 America/Mexico_City] PHP Deprecated:  Non-static method Ruta::ctrRuta() should not be called statically in /home/andamio8/public_html/panel.andamiosexpressstore.mx/ajax/tablaVentas.ajax.php on line 37
+[07-Apr-2022 09:17:15 America/Mexico_City] PHP Deprecated:  Non-static method Ruta::ctrRuta() should not be called statically in /home/andamio8/public_html/panel.andamiosexpressstore.mx/ajax/tablaUsuarios.ajax.php on line 37
+[07-Apr-2022 17:54:56 America/Mexico_City] PHP Deprecated:  Non-static method Ruta::ctrRuta() should not be called statically in /home/andamio8/public_html/panel.andamiosexpressstore.mx/ajax/tablaVentas.ajax.php on line 37
+[07-Apr-2022 17:56:20 America/Mexico_City] PHP Deprecated:  Non-static method Ruta::ctrRuta() should not be called statically in /home/andamio8/public_html/panel.andamiosexpressstore.mx/ajax/tablaUsuarios.ajax.php on line 37
+[07-Apr-2022 17:56:55 America/Mexico_City] PHP Deprecated:  Non-static method Ruta::ctrRuta() should not be called statically in /home/andamio8/public_html/panel.andamiosexpressstore.mx/ajax/tablaUsuarios.ajax.php on line 37
+[12-Apr-2022 11:39:16 America/Mexico_City] PHP Notice:  Undefined index: antiguaFotoPortada in /home/andamio8/public_html/panel.andamiosexpressstore.mx/ajax/productos.ajax.php on line 318
+[12-Apr-2022 11:39:16 America/Mexico_City] PHP Notice:  Undefined index: idCabecera in /home/andamio8/public_html/panel.andamiosexpressstore.mx/ajax/productos.ajax.php on line 321
+[12-Apr-2022 11:39:16 America/Mexico_City] PHP Notice:  Undefined index: peso in /home/andamio8/public_html/panel.andamiosexpressstore.mx/controladores/productos.controlador.php on line 596
+[12-Apr-2022 11:39:51 America/Mexico_City] PHP Deprecated:  Non-static method Ruta::ctrRuta() should not be called statically in /home/andamio8/public_html/panel.andamiosexpressstore.mx/ajax/tablaVentas.ajax.php on line 37
+[12-Apr-2022 11:42:05 America/Mexico_City] PHP Deprecated:  Non-static method Ruta::ctrRuta() should not be called statically in /home/andamio8/public_html/panel.andamiosexpressstore.mx/ajax/tablaUsuarios.ajax.php on line 37
+[12-Apr-2022 12:28:10 America/Mexico_City] PHP Deprecated:  Non-static method Ruta::ctrRuta() should not be called statically in /home/andamio8/public_html/panel.andamiosexpressstore.mx/ajax/tablaUsuarios.ajax.php on line 37

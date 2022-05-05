@@ -1,0 +1,76 @@
+/*BARRA DE SESION*/
+
+#top ul {
+    padding-top: 5px;
+}
+
+#top ul li {
+    display: inline;
+    line-height: 30px;
+    margin: 0px 5px;
+}
+
+.registro ul {
+    text-align: center;
+}
+
+.carrito {
+    background-color: #f9dd00;
+    font-weight: 900;
+    font-size: 35PX;
+    COLOR: black;
+    font-style: italic;
+}
+
+.eleccion {
+    margin-top: 30px;
+    background-color: #f9dd00;
+    font-size: 40px;
+    font-weight: bold;
+}
+
+.icono {
+    width: 200px;
+    height: 200px;
+}
+
+.titulo-card {
+    font-size: 25px;
+    font-weight: bold;
+    text-transform: uppercase;
+    text-align: center;
+}
+
+
+/*Categorias*/
+
+.category {
+    margin-top: 30px;
+    background-color: #000000;
+    color: #f9dd00;
+    font-size: 40px;
+    font-weight: bold;
+}
+
+.contenedor {
+    position: relative;
+    text-align: center;
+    color: black;
+}
+
+.centered {
+    position: absolute;
+    top: 80%;
+    left: 50%;
+    width: 100%;
+    transform: translate(-50%, -50%);
+    background-color: #f9dd00;
+}
+
+.centered h1 {
+    font-size: 18px;
+}
+
+.bordeAmarillo {
+    border: none;
+}

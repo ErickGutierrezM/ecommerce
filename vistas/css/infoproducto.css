@@ -1,0 +1,73 @@
+.infoProducto figure.visor img {
+    display: none;
+    cursor: crosshair;
+}
+
+.infoProducto figure.visor img:first-child {
+    display: block;
+}
+
+.flexslider {
+    cursor: pointer;
+}
+
+.lupa {
+    display: none;
+    position: absolute;
+    top: 0;
+    left: 0;
+    overflow: hidden;
+}
+
+.lupa img {
+    position: relative;
+    margin-top: -100%;
+    margin-left: -50px;
+    width: 160%;
+}
+
+.detalles {
+    width: 100%;
+}
+
+.listaCaracteristicas {
+    font-size: 18px;
+}
+
+.listaCaracteristicas li {
+    margin: 10px;
+}
+
+
+/* Ripple effect */
+
+.ripple {
+    background-position: center;
+    transition: background 0.8s;
+}
+
+.ripple:hover {
+    background: #F9DD00 radial-gradient(circle, transparent 1%, #F9DD00 1%) center/15000%;
+}
+
+.ripple:active {
+    background-color: #6eb9f7;
+    background-size: 100%;
+    transition: background 0s;
+}
+
+
+/* Button style */
+
+.btnCart {
+    border: none;
+    border-radius: 2px;
+    padding: 12px 18px;
+    font-size: 16px;
+    text-transform: uppercase;
+    cursor: pointer;
+    color: #000;
+    background-color: #F9DD00;
+    box-shadow: 0 0 4px #999;
+    outline: none;
+}

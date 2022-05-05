@@ -1,0 +1,15 @@
+/**PERFIL**/
+#perfil #subirImagen{
+    display: none;
+    margin: 20px 0px;
+    border: 2px dotted #ccc;
+    overflow: hidden;
+    padding: 40px;
+    cursor: pointer;
+
+}
+
+#perfil #subirImagen #datosImage{
+    height: 65px;
+}
+
